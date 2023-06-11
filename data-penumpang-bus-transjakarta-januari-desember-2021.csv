@@ -1,0 +1,1474 @@
+tahun,bulan,jenis,kode_trayek,trayek,jumlah_penumpang
+2021,01,Mikrotrans,JAK.88,Terminal Tanjung Priok - Ancol Barat,1473
+2021,01,Mikrotrans,JAK.85,Bintara - Cipinang Indah,20280
+2021,01,Mikrotrans,JAK.84,Terminal Kampung Melayu - Kapin Raya,28779
+2021,01,Mikrotrans,JAK.80,Rawa Buaya - Rawa Kompeni,54998
+2021,01,Mikrotrans,JA.77,Tanjung Priok - Jembatan Item,60284
+2021,01,Mikrotrans,JAK.75,Cililitan - Kp. Pulo,48220
+2021,01,Mikrotrans,JAK.74,Terminal Rawamangun - Cipinang Muara,38572
+2021,01,Mikrotrans,JAK.73,Jambore Cibubur - Pasar Rebo,65087
+2021,01,Mikrotrans,JAK.72,Kampung Rambutan - Pasar Rebo via Poncol,85416
+2021,01,Mikrotrans,JAK.71,Kampung Rambutan - Pinang Ranti,62822
+2021,01,Mikrotrans,JAK.64,Lenteng Agung - Aseli,36802
+2021,01,Mikrotrans,JAK.61,Cempaka Putih - Pulo Gadung via Kelapa Gading,36899
+2021,01,Mikrotrans,JAK.60,Kelapa Gading - Rusun Kemayoran,72704
+2021,01,Mikrotrans,JAK.59,Rawamangun - Tanah Merah,90624
+2021,01,Mikrotrans,JAK.58,Cilingcing - Rorotan,96030
+2021,01,Mikrotrans,JAK.56,Grogol - Srengseng,50223
+2021,01,Mikrotrans,JAK.54,Grogol - Benhil,25049
+2021,01,Mikrotrans,JAK.53,Grogol - Pos Pengumben via Slipi,20947
+2021,01,Mikrotrans,JAK.52,Kalideres - Muara Angke,42875
+2021,01,Mikrotrans,JAK.51,Taman Kota - Budi Luhur,96336
+2021,01,Mikrotrans,JAK.50,Kalideres - Puri Kembangan,61171
+2021,01,Mikrotrans,JAK.49,Lebak Bulus - Cipulir,36662
+2021,01,Mikrotrans,JAK.47,Pasar Minggu - Ciganjur via KB Ragunan,39551
+2021,01,Mikrotrans,JAK.46,Pasar Minggu - Jagakarsa,59975
+2021,01,Mikrotrans,JAK.45,Lebak Bulus - Ragunan,47171
+2021,01,Mikrotrans,JAK.44,Andara - Stasiun Universitas Pancasila,53202
+2021,01,Mikrotrans,JAK.43,Tongtek - Cililitan,74225
+2021,01,Mikrotrans,JAK.42,Kampung Melayu - Pondok Kelapa,50456
+2021,01,Mikrotrans,JAK.41,Kampung Melayu - Ppulo Gadung,21109
+2021,01,Mikrotrans,JAK.40,Harapan Baru - Pulo Gebang via Rawa Kuning,41797
+2021,01,Mikrotrans,JAK.39,Kalimalang - Duren Sawit,54414
+2021,01,Mikrotrans,JAK.38,Bulak Ringin - Kampung Rambutan,43994
+2021,01,Mikrotrans,JAK.37,Cililitan - Condet via Kayu Manis,46026
+2021,01,Mikrotrans,JAK.36,Cilangkap - Cililitan,87842
+2021,01,Mikrotrans,JAK.35,Pangkalan  Jati - Rawamangun,29321
+2021,01,Mikrotrans,JAK.34,Rawamangun - Klender,68848
+2021,01,Mikrotrans,JAK.33,Pulo Gadung - Kota,46531
+2021,01,Mikrotrans,JAK.32,Lebak Bulus - Petukangan,83768
+2021,01,Mikrotrans,JAK.31,Blok M - Andara,55577
+2021,01,Mikrotrans,JAK.30,Grogol - Meruya via Roxy,128066
+2021,01,Mikrotrans,JAK.29,Tanjung Priok - Sukapura,105832
+2021,01,Mikrotrans,JAK.28,Kp. Rambutan - Taman Wiladatika,63490
+2021,01,Mikrotrans,JAK.27,Pulo Gebang - Rorotan,47626
+2021,01,Mikrotrans,JAK.26,Rawamangun - Duren Sawit,36715
+2021,01,Mikrotrans,JAK.25,Kp. Rambutan - Kalisari,56614
+2021,01,Mikrotrans,JAK.24,Senen - Pulo Gadung via Kelapa Gading,68914
+2021,01,Mikrotrans,JAK.22,Dwikora - Penas Kalimalang,26467
+2021,01,Mikrotrans,JAK.21,Cililitan - Dwikora,56815
+2021,01,Mikrotrans,JAK.20,Cawang UKI - Lubang Buaya,59451
+"2021,01,Mikrotrans,""JAK,19"",Pinang Ranti - Kampung Rambutan,103680"
+2021,01,Mikrotrans,JAK.18,Kalibata - Kuningan,29032
+2021,01,Mikrotrans,JAK.17,Senen - Pulo Gadung ,33859
+2021,01,Mikrotrans,JAK.16,Cililitan - Condet via Kayu Manis,55944
+2021,01,Mikrotrans,JAK.15,Bulak Turi - Tanjung Priok,118715
+2021,01,Mikrotrans,JAK.14,Tanah Abang - Meruya,74084
+2021,01,Mikrotrans,JAK.13,Tanah Abang - Kota Intan via Jembatan Lima,14490
+2021,01,Mikrotrans,JAK.12,Tanah Abang - Kebayoran Lama via Pos Pengumben,65016
+2021,01,Mikrotrans,JAK.117,Tanjung Priok - Tanah Merdeka,67367
+2021,01,Mikrotrans,JAK.112,Terminal Tanah Merah - Pulo Gadung,52710
+2021,01,Mikrotrans,JAK.11,Tanah Abang - Kebayoran Lama ,72135
+2021,01,Mikrotrans,JAK.10,Tanah Abang - Kota ,48001
+2021,01,Mikrotrans,JAK.09,Roxy Mas - Karet,19924
+2021,01,Mikrotrans,JAK.08,Roxy - Benhil,22289
+2021,01,Mikrotrans,JAK.07,Tanah Abang - Grogol via Tawakal,41856
+2021,01,Mikrotrans,JAK.06,Kampung Rambutan - Pondok Gede,73456
+2021,01,Mikrotrans,JAK.05,Semper - Rorotan,68172
+2021,01,Mikrotrans,JAK.04,Grogol - Tubagus Angke,45679
+2021,01,Mikrotrans,JAK.03,Lebak Bulus - Andara,31712
+2021,01,Mikrotrans,JAK.02,Kampung Melayu - Duren Sawit,44415
+2021,01,Mikrotrans,JAK.01,Ttanjung Priok - Plumpang,56172
+2021,01,BRT,9,Pinang Ranti - Pluit,622613
+2021,01,BRT,8,Lebak Bulus - Harmoni,419996
+2021,01,BRT,7,Kampung Rambutan - Kampung Melayu,377657
+2021,01,BRT,6,Ragunan - Dukuh Atas 2,320411
+2021,01,BRT,5,Kampung Melayu - Ancol,400573
+2021,01,BRT,4,Pulo Ggadung 2 - Tosari,249575
+2021,01,BRT,3,Kalideres - Pasar Baru,444971
+2021,01,BRT,2,Pulo Gadung 1 - Harmoni,323751
+2021,01,BRT,13,Ciledug - Tendean,266290
+2021,01,BRT,12,Penjaringan - Sunter Bouleverd Barat,137793
+2021,01,BRT,11,Pulo Gebang - Kampung Melayu,134632
+2021,01,BRT,10,Tanjung Priok - PGC 2,356211
+2021,01,BRT,1,Blok M - Kota,773717
+2021,01,Angkutan Umum Integrasi,GR5,Kota Tua Explorer,261
+2021,01,Angkutan Umum Integrasi,GR4,Taman Kota Intan - Museum Bahari,76
+2021,01,Angkutan Umum Integrasi,9E,Kebayoran Lama - Jelambar,15039
+2021,01,Angkutan Umum Integrasi,9D,Pasar Minggu - Tanah Abang,75918
+2021,01,Angkutan Umum Integrasi,8K,Batu Sari-Tanah Abang,6867
+2021,01,Angkutan Umum Integrasi,8E,Bintaro - Blok M,21336
+2021,01,Angkutan Umum Integrasi,8D,Joglo - Blok M,38523
+2021,01,Angkutan Umum Integrasi,8C,Kebayoran Lama - Tanah Abang,13021
+2021,01,Angkutan Umum Integrasi,7P,Pondok Kelapa - BKN,27248
+2021,01,Angkutan Umum Integrasi,7D,Pancoran - TMII,17464
+2021,01,Angkutan Umum Integrasi,7B,Kampung Rambutan - Blok M,87284
+2021,01,Angkutan Umum Integrasi,7A,Kampung Rambutan - Lebak Bulus,47005
+2021,01,Angkutan Umum Integrasi,6R,Ragunan - Stasin MRT Fatmawati,1780
+2021,01,Angkutan Umum Integrasi,6M,Stasiun Manggarai - Blok  M,25781
+2021,01,Angkutan Umum Integrasi,6H,Senen - Lebak Bulus,15742
+2021,01,Angkutan Umum Integrasi,6C,Stasin Tebet - Karet via Patra Kuningan,94200
+2021,01,Angkutan Umum Integrasi,5M,Kampung Melayu - Tanah Abang via Cikini,87492
+2021,01,Angkutan Umum Integrasi,5F,Kampung Melayu - Tanah Abang,18094
+2021,01,Angkutan Umum Integrasi,5B,Stasiun Tebet - Bidara Cina,8008
+2021,01,Angkutan Umum Integrasi,4F,Pinang Ranti - Pulo Gadung,39562
+2021,01,Angkutan Umum Integrasi,4B,Stasiun Manggarai - UI,31546
+2021,01,Angkutan Umum Integrasi,3E,Puri Kembangan - Sentraland Cengkareng,24385
+2021,01,Angkutan Umum Integrasi,1R,Senen - Tanah Abang,13518
+2021,01,Angkutan Umum Integrasi,1Q,Rempoa - Blok M,29449
+2021,01,Angkutan Umum Integrasi,1P,Senen - Bundaran Senayan,8793
+2021,01,Angkutan Umum Integrasi,1N,Tanah Abang - Blok M,9987
+2021,01,Angkutan Umum Integrasi,1M,Meruya - Blok M,29169
+2021,01,Angkutan Umum Integrasi,1H,Tanah Abang - Stasiun Gondangdia,45597
+2021,01,Angkutan Umum Integrasi,1F,Stasiun Palmerah - Bundaran Senayan,6090
+2021,01,Angkutan Umum Integrasi,1E,Pondok  Labu - Blok M,76707
+2021,01,Angkutan Umum Integrasi,1C,Pesanggrahan - Blok M,18502
+2021,01,Angkutan Umum Integrasi,1B,Stasiun Palmerah - Tosari,24996
+2021,01,Angkutan Umum Integrasi,1A,Pantai Maju - Balai Kota,62721
+2021,01,Angkutan Umum Integrasi,12B,Pluit - Senen,9506
+2021,01,Angkutan Umum Integrasi,11Q,Kampung Melayu - Pulo Gebang via BKT,9436
+2021,01,Angkutan Umum Integrasi,11D,Pulo Gebang - Pulo Gadung 2 via PIK,61434
+2021,01,Angkutan Umum Integrasi,10K,Tanjung Priok - Senen via Taman  BMW,41881
+2021,02,Mikrotrans,JAK.88,Terminal Tanjung Priok - Ancol Barat,21344
+2021,02,Mikrotrans,JAK.85,Bintara - Cipinang Indah,20729
+2021,02,Mikrotrans,JAK.84,Terminal Kampung Melayu - Kapin Raya,31200
+2021,02,Mikrotrans,JAK.80,Rawa Buaya - Rawa Kompeni,54914
+2021,02,Mikrotrans,JA.77,Tanjung Priok - Jembatan Item,56920
+2021,02,Mikrotrans,JAK.75,Cililitan - Kp. Pulo,43997
+2021,02,Mikrotrans,JAK.74,Terminal Rawamangun - Cipinang Muara,35356
+2021,02,Mikrotrans,JAK.73,Jambore Cibubur - Pasar Rebo,63940
+2021,02,Mikrotrans,JAK.72,Kampung Rambutan - Pasar Rebo via Poncol,77250
+2021,02,Mikrotrans,JAK.71,Kampung Rambutan - Pinang Ranti,57426
+2021,02,Mikrotrans,JAK.64,Lenteng Agung - Aseli,37219
+2021,02,Mikrotrans,JAK.61,Cempaka Putih - Pulo Gadung via Kelapa Gading,33443
+2021,02,Mikrotrans,JAK.60,Kelapa Gading - Rusun Kemayoran,65846
+2021,02,Mikrotrans,JAK.59,Rawamangun - Tanah Merah,87721
+2021,02,Mikrotrans,JAK.58,Cilingcing - Rorotan,87437
+2021,02,Mikrotrans,JAK.56,Grogol - Srengseng,46279
+2021,02,Mikrotrans,JAK.54,Grogol - Benhil,26980
+2021,02,Mikrotrans,JAK.53,Grogol - Pos Pengumben via Slipi,22227
+2021,02,Mikrotrans,JAK.52,Kalideres - Muara Angke,43364
+2021,02,Mikrotrans,JAK.51,Taman Kota - Budi Luhur,92464
+2021,02,Mikrotrans,JAK.50,Kalideres - Puri Kembangan,51921
+2021,02,Mikrotrans,JAK.49,Lebak Bulus - Cipulir,35460
+2021,02,Mikrotrans,JAK.47,Pasar Minggu - Ciganjur via KB Ragunan,40570
+2021,02,Mikrotrans,JAK.46,Pasar Minggu - Jagakarsa,57219
+2021,02,Mikrotrans,JAK.45,Lebak Bulus - Ragunan,44618
+2021,02,Mikrotrans,JAK.44,Andara - Stasiun Universitas Pancasila,52459
+2021,02,Mikrotrans,JAK.43,Tongtek - Cililitan,77215
+2021,02,Mikrotrans,JAK.42,Kampung Melayu - Pondok Kelapa,52244
+2021,02,Mikrotrans,JAK.41,Kampung Melayu - Ppulo Gadung,22924
+2021,02,Mikrotrans,JAK.40,Harapan Baru - Pulo Gebang via Rawa Kuning,39204
+2021,02,Mikrotrans,JAK.39,Kalimalang - Duren Sawit,54632
+2021,02,Mikrotrans,JAK.38,Bulak Ringin - Kampung Rambutan,40927
+2021,02,Mikrotrans,JAK.37,Cililitan - Condet via Kayu Manis,48742
+2021,02,Mikrotrans,JAK.36,Cilangkap - Cililitan,83344
+2021,02,Mikrotrans,JAK.35,Pangkalan  Jati - Rawamangun,29146
+2021,02,Mikrotrans,JAK.34,Rawamangun - Klender,68017
+2021,02,Mikrotrans,JAK.33,Pulo Gadung - Kota,47276
+2021,02,Mikrotrans,JAK.32,Lebak Bulus - Petukangan,78829
+2021,02,Mikrotrans,JAK.31,Blok M - Andara,54602
+2021,02,Mikrotrans,JAK.30,Grogol - Meruya via Roxy,124641
+2021,02,Mikrotrans,JAK.29,Tanjung Priok - Sukapura,99914
+2021,02,Mikrotrans,JAK.28,Kp. Rambutan - Taman Wiladatika,59697
+2021,02,Mikrotrans,JAK.27,Pulo Gebang - Rorotan,43461
+2021,02,Mikrotrans,JAK.26,Rawamangun - Duren Sawit,36157
+2021,02,Mikrotrans,JAK.25,Kp. Rambutan - Kalisari,54166
+2021,02,Mikrotrans,JAK.24,Senen - Pulo Gadung via Kelapa Gading,66373
+2021,02,Mikrotrans,JAK.22,Dwikora - Penas Kalimalang,23633
+2021,02,Mikrotrans,JAK.21,Cililitan - Dwikora,50183
+2021,02,Mikrotrans,JAK.20,Cawang UKI - Lubang Buaya,56309
+"2021,02,Mikrotrans,""JAK,19"",Pinang Ranti - Kampung Rambutan,100915"
+2021,02,Mikrotrans,JAK.18,Kalibata - Kuningan,29065
+2021,02,Mikrotrans,JAK.17,Senen - Pulo Gadung ,31054
+2021,02,Mikrotrans,JAK.16,Cililitan - Condet via Kayu Manis,55253
+2021,02,Mikrotrans,JAK.15,Bulak Turi - Tanjung Priok,117930
+2021,02,Mikrotrans,JAK.14,Tanah Abang - Meruya,73311
+2021,02,Mikrotrans,JAK.13,Tanah Abang - Kota Intan via Jembatan Lima,13596
+2021,02,Mikrotrans,JAK.12,Tanah Abang - Kebayoran Lama via Pos Pengumben,60234
+2021,02,Mikrotrans,JAK.117,Tanjung Priok - Tanah Merdeka,69530
+2021,02,Mikrotrans,JAK.112,Terminal Tanah Merah - Pulo Gadung,45547
+2021,02,Mikrotrans,JAK.11,Tanah Abang - Kebayoran Lama ,65085
+2021,02,Mikrotrans,JAK.10,Tanah Abang - Kota ,41754
+2021,02,Mikrotrans,JAK.09,Roxy Mas - Karet,21417
+2021,02,Mikrotrans,JAK.08,Roxy - Benhil,23941
+2021,02,Mikrotrans,JAK.07,Tanah Abang - Grogol via Tawakal,40099
+2021,02,Mikrotrans,JAK.06,Kampung Rambutan - Pondok Gede,68724
+2021,02,Mikrotrans,JAK.05,Semper - Rorotan,65797
+2021,02,Mikrotrans,JAK.04,Grogol - Tubagus Angke,45396
+2021,02,Mikrotrans,JAK.03,Lebak Bulus - Andara,29697
+2021,02,Mikrotrans,JAK.02,Kampung Melayu - Duren Sawit,43512
+2021,02,Mikrotrans,JAK.01,Tanjung Priok - Plumpang,56501
+2021,02,BRT,9,Pinang Ranti - Pluit,611856
+2021,02,BRT,8,Lebak Bulus - Harmoni,414326
+2021,02,BRT,7,Kampung Rambutan - Kampung Melayu,370317
+2021,02,BRT,6,Ragunan - Dukuh Atas 2,316703
+2021,02,BRT,5,Kampung Melayu - Ancol,397019
+2021,02,BRT,4,Pulo Ggadung 2 - Tosari,250418
+2021,02,BRT,3,Kalideres - Pasar Baru,436078
+2021,02,BRT,2,Pulo Gadung 1 - Harmoni,312708
+2021,02,BRT,13,Ciledug - Tendean,265717
+2021,02,BRT,12,Penjaringan - Sunter Bouleverd Barat,134609
+2021,02,BRT,11,Pulo Gebang - Kampung Melayu,134665
+2021,02,BRT,10,Tanjung Priok - PGC 2,349572
+2021,02,BRT,1,Blok M - Kota,799708
+2021,02,Angkutan Umum Integrasi,9H,Cipedak - Blok M,5936
+2021,02,Angkutan Umum Integrasi,9E,Kebayoran Lama - Jelambar,11469
+2021,02,Angkutan Umum Integrasi,9D,Pasar Minggu - Tanah Abang,59242
+2021,02,Angkutan Umum Integrasi,8K,Batu Sari-Tanah Abang,6629
+2021,02,Angkutan Umum Integrasi,8E,Bintaro - Blok M,15555
+2021,02,Angkutan Umum Integrasi,8D,Joglo - Blok M,28516
+2021,02,Angkutan Umum Integrasi,8C,Kebayoran Lama - Tanah Abang,11525
+2021,02,Angkutan Umum Integrasi,7P,Pondok Kelapa - BKN,19590
+2021,02,Angkutan Umum Integrasi,7D,Pancoran - TMII,17270
+2021,02,Angkutan Umum Integrasi,7B,Kampung Rambutan - Blok M,68351
+2021,02,Angkutan Umum Integrasi,7A,Kampung Rambutan - Lebak Bulus,36101
+2021,02,Angkutan Umum Integrasi,6R,Ragunan - Stasin MRT Fatmawati,2497
+2021,02,Angkutan Umum Integrasi,6M,Stasiun Manggarai - Blok  M,21277
+2021,02,Angkutan Umum Integrasi,6H,Senen - Lebak Bulus,14490
+2021,02,Angkutan Umum Integrasi,6C,Stasin Tebet - Karet via Patra Kuningan,71799
+2021,02,Angkutan Umum Integrasi,5M,Kampung Melayu - Tanah Abang via Cikini,60005
+2021,02,Angkutan Umum Integrasi,5F,Kampung Melayu - Tanah Abang,15393
+2021,02,Angkutan Umum Integrasi,5B,Stasiun Tebet - Bidara Cina,6618
+2021,02,Angkutan Umum Integrasi,4F,Pinang Ranti - Pulo Gadung,32019
+2021,02,Angkutan Umum Integrasi,4B,Stasiun Manggarai - UI,28783
+2021,02,Angkutan Umum Integrasi,3E,Puri Kembangan - Sentraland Cengkareng,17495
+2021,02,Angkutan Umum Integrasi,1R,Senen - Tanah Abang,10560
+2021,02,Angkutan Umum Integrasi,1Q,Rempoa - Blok M,21239
+2021,02,Angkutan Umum Integrasi,1P,Senen - Bundaran Senayan,5649
+2021,02,Angkutan Umum Integrasi,1N,Tanah Abang - Blok M,7434
+2021,02,Angkutan Umum Integrasi,1M,Meruya - Blok M,19950
+2021,02,Angkutan Umum Integrasi,1H,Tanah Abang - Stasiun Gondangdia,34160
+2021,02,Angkutan Umum Integrasi,1F,Stasiun Palmerah - Bundaran Senayan,4965
+2021,02,Angkutan Umum Integrasi,1E,Pondok  Labu - Blok M,57726
+2021,02,Angkutan Umum Integrasi,1C,Pesanggrahan - Blok M,12977
+2021,02,Angkutan Umum Integrasi,1B,Stasiun Palmerah - Tosari,17157
+2021,02,Angkutan Umum Integrasi,1A,Pantai Maju - Balai Kota,50669
+2021,02,Angkutan Umum Integrasi,12B,Pluit - Senen,9096
+2021,02,Angkutan Umum Integrasi,11Q,Kampung Melayu - Pulo Gebang via BKT,8493
+2021,02,Angkutan Umum Integrasi,11D,Pulo Gebang - Pulo Gadung 2 via PIK,47628
+2021,02,Angkutan Umum Integrasi,10K,Tanjung Priok - Senen via Taman  BMW,31243
+2021,03,Mikrotrans,JAK.88,Terminal Tanjung Priok - Ancol Barat,29550
+2021,03,Mikrotrans,JAK.85,Bintara - Cipinang Indah,29905
+2021,03,Mikrotrans,JAK.84,Terminal Kampung Melayu - Kapin Raya,38674
+2021,03,Mikrotrans,JAK.80,Rawa Buaya - Rawa Kompeni,63082
+2021,03,Mikrotrans,JA.77,Tanjung Priok - Jembatan Item,67739
+2021,03,Mikrotrans,JAK.75,Cililitan - Kp. Pulo,53047
+2021,03,Mikrotrans,JAK.74,Terminal Rawamangun - Cipinang Muara,42207
+2021,03,Mikrotrans,JAK.73,Jambore Cibubur - Pasar Rebo,78340
+2021,03,Mikrotrans,JAK.72,Kampung Rambutan - Pasar Rebo via Poncol,91806
+2021,03,Mikrotrans,JAK.71,Kampung Rambutan - Pinang Ranti,68156
+2021,03,Mikrotrans,JAK.64,Lenteng Agung - Aseli,46819
+2021,03,Mikrotrans,JAK.61,Cempaka Putih - Pulo Gadung via Kelapa Gading,41360
+2021,03,Mikrotrans,JAK.60,Kelapa Gading - Rusun Kemayoran,77402
+2021,03,Mikrotrans,JAK.59,Rawamangun - Tanah Merah,100686
+2021,03,Mikrotrans,JAK.58,Cilingcing - Rorotan,97206
+2021,03,Mikrotrans,JAK.56,Grogol - Srengseng,53886
+2021,03,Mikrotrans,JAK.54,Grogol - Benhil,32490
+2021,03,Mikrotrans,JAK.53,Grogol - Pos Pengumben via Slipi,28325
+2021,03,Mikrotrans,JAK.52,Kalideres - Muara Angke,59280
+2021,03,Mikrotrans,JAK.51,Taman Kota - Budi Luhur,113243
+2021,03,Mikrotrans,JAK.50,Kalideres - Puri Kembangan,67363
+2021,03,Mikrotrans,JAK.49,Lebak Bulus - Cipulir,43954
+2021,03,Mikrotrans,JAK.47,Pasar Minggu - Ciganjur via KB Ragunan,52411
+2021,03,Mikrotrans,JAK.46,Pasar Minggu - Jagakarsa,77915
+2021,03,Mikrotrans,JAK.45,Lebak Bulus - Ragunan,57681
+2021,03,Mikrotrans,JAK.44,Andara - Stasiun Universitas Pancasila,65591
+2021,03,Mikrotrans,JAK.43,Tongtek - Cililitan,89649
+2021,03,Mikrotrans,JAK.42,Kampung Melayu - Pondok Kelapa,64890
+2021,03,Mikrotrans,JAK.41,Kampung Melayu - Ppulo Gadung,29450
+2021,03,Mikrotrans,JAK.40,Harapan Baru - Pulo Gebang via Rawa Kuning,46228
+2021,03,Mikrotrans,JAK.39,Kalimalang - Duren Sawit,65972
+2021,03,Mikrotrans,JAK.38,Bulak Ringin - Kampung Rambutan,50005
+2021,03,Mikrotrans,JAK.37,Cililitan - Condet via Kayu Manis,62773
+2021,03,Mikrotrans,JAK.36,Cilangkap - Cililitan,101015
+2021,03,Mikrotrans,JAK.35,Pangkalan  Jati - Rawamangun,35034
+2021,03,Mikrotrans,JAK.34,Rawamangun - Klender,80563
+2021,03,Mikrotrans,JAK.33,Pulo Gadung - Kota,54740
+2021,03,Mikrotrans,JAK.32,Lebak Bulus - Petukangan,94096
+2021,03,Mikrotrans,JAK.31,Blok M - Andara,66327
+2021,03,Mikrotrans,JAK.30,Grogol - Meruya via Roxy,148435
+2021,03,Mikrotrans,JAK.29,Tanjung Priok - Sukapura,118492
+2021,03,Mikrotrans,JAK.28,Kp. Rambutan - Taman Wiladatika,70303
+2021,03,Mikrotrans,JAK.27,Pulo Gebang - Rorotan,52236
+2021,03,Mikrotrans,JAK.26,Rawamangun - Duren Sawit,43700
+2021,03,Mikrotrans,JAK.25,Kp. Rambutan - Kalisari,62854
+2021,03,Mikrotrans,JAK.24,Senen - Pulo Gadung via Kelapa Gading,78082
+2021,03,Mikrotrans,JAK.22,Dwikora - Penas Kalimalang,29951
+2021,03,Mikrotrans,JAK.21,Cililitan - Dwikora,62627
+2021,03,Mikrotrans,JAK.20,Cawang UKI - Lubang Buaya,68562
+"2021,03,Mikrotrans,""JAK,19"",Pinang Ranti - Kampung Rambutan,121838"
+2021,03,Mikrotrans,JAK.18,Kalibata - Kuningan,37386
+2021,03,Mikrotrans,JAK.17,Senen - Pulo Gadung ,38648
+2021,03,Mikrotrans,JAK.16,Cililitan - Condet via Kayu Manis,76307
+2021,03,Mikrotrans,JAK.15,Bulak Turi - Tanjung Priok,133740
+2021,03,Mikrotrans,JAK.14,Tanah Abang - Meruya,88861
+2021,03,Mikrotrans,JAK.13,Tanah Abang - Kota Intan via Jembatan Lima,15585
+2021,03,Mikrotrans,JAK.12,Tanah Abang - Kebayoran Lama via Pos Pengumben,67389
+2021,03,Mikrotrans,JAK.117,Tanjung Priok - Tanah Merdeka,83110
+2021,03,Mikrotrans,JAK.112,Terminal Tanah Merah - Pulo Gadung,52125
+2021,03,Mikrotrans,JAK.11,Tanah Abang - Kebayoran Lama ,73946
+2021,03,Mikrotrans,JAK.10B,Gondangdia - Cikini via Kramat Raya,2828
+2021,03,Mikrotrans,JAK.10A,Gondangdia - Cikini via Salemba Raya,16781
+2021,03,Mikrotrans,JAK.10,Tanah Abang - Kota ,51063
+2021,03,Mikrotrans,JAK.09,Roxy Mas - Karet,25584
+2021,03,Mikrotrans,JAK.08,Roxy - Benhil,29530
+2021,03,Mikrotrans,JAK.07,Tanah Abang - Grogol via Tawakal,46342
+2021,03,Mikrotrans,JAK.06,Kampung Rambutan - Pondok Gede,82814
+2021,03,Mikrotrans,JAK.05,Semper - Rorotan,75218
+2021,03,Mikrotrans,JAK.04,Grogol - Tubagus Angke,52690
+2021,03,Mikrotrans,JAK.03,Lebak Bulus - Andara,36614
+2021,03,Mikrotrans,JAK.02,Kampung Melayu - Duren Sawit,52302
+2021,03,Mikrotrans,JAK.01,Tanjung Priok - Plumpang,67629
+2021,03,BRT,9,Pinang Ranti - Pluit,756064
+2021,03,BRT,8,Lebak Bulus - Harmoni,508851
+2021,03,BRT,7,Kampung Rambutan - Kampung Melayu,453819
+2021,03,BRT,6,Ragunan - Dukuh Atas 2,405083
+2021,03,BRT,5,Kampung Melayu - Ancol,494769
+2021,03,BRT,4,Pulo Gadung 2 - Tosari,277604
+2021,03,BRT,3,Kalideres - Pasar Baru,534617
+2021,03,BRT,2,Pulo Gadung 1 - Harmoni,412664
+2021,03,BRT,13,Ciledug - Tendean,334450
+2021,03,BRT,12,Penjaringan - Sunter Bouleverd Barat,164012
+2021,03,BRT,11,Pulo Gebang - Kampung Melayu,166555
+2021,03,BRT,10,Tanjung Priok - PGC 2,427032
+2021,03,BRT,1,Blok M - Kota,1013221
+2021,03,Angkutan Umum Integrasi,9H,Cipedak - Blok M,12674
+2021,03,Angkutan Umum Integrasi,9E,Kebayoran Lama - Jelambar,13245
+2021,03,Angkutan Umum Integrasi,9D,Pasar Minggu - Tanah Abang,74555
+2021,03,Angkutan Umum Integrasi,8K,Batu Sari-Tanah Abang,8570
+2021,03,Angkutan Umum Integrasi,8E,Bintaro - Blok M,19297
+2021,03,Angkutan Umum Integrasi,8D,Joglo - Blok M,34009
+2021,03,Angkutan Umum Integrasi,8C,Kebayoran Lama - Tanah Abang,18192
+2021,03,Angkutan Umum Integrasi,7P,Pondok Kelapa - BKN,24723
+2021,03,Angkutan Umum Integrasi,7D,Pancoran - TMII,23286
+2021,03,Angkutan Umum Integrasi,7B,Kampung Rambutan - Blok M,82559
+2021,03,Angkutan Umum Integrasi,7A,Kampung Rambutan - Lebak Bulus,49219
+2021,03,Angkutan Umum Integrasi,6R,Ragunan - Stasin MRT Fatmawati,2157
+2021,03,Angkutan Umum Integrasi,6N,Ragunan - Blok M via Kemang,13318
+2021,03,Angkutan Umum Integrasi,6M,Stasiun Manggarai - Blok  M,24251
+2021,03,Angkutan Umum Integrasi,6H,Senen - Lebak Bulus,18468
+2021,03,Angkutan Umum Integrasi,6C,Stasin Tebet - Karet via Patra Kuningan,93959
+2021,03,Angkutan Umum Integrasi,5M,Kampung Melayu - Tanah Abang via Cikini,79666
+2021,03,Angkutan Umum Integrasi,5F,Kampung Melayu - Tanah Abang,19217
+2021,03,Angkutan Umum Integrasi,5B,Stasiun Tebet - Bidara Cina,8638
+2021,03,Angkutan Umum Integrasi,4F,Pinang Ranti - Pulo Gadung,41635
+2021,03,Angkutan Umum Integrasi,4B,Stasiun Manggarai - UI,40301
+2021,03,Angkutan Umum Integrasi,3E,Puri Kembangan - Sentraland Cengkareng,23513
+2021,03,Angkutan Umum Integrasi,2Q,Gondangdia - Balai Kota,8440
+2021,03,Angkutan Umum Integrasi,2P,Gondangdia - Senen,6130
+2021,03,Angkutan Umum Integrasi,1R,Senen - Tanah Abang,15225
+2021,03,Angkutan Umum Integrasi,1Q,Rempoa - Blok M,27200
+2021,03,Angkutan Umum Integrasi,1P,Senen - Bundaran Senayan,8456
+2021,03,Angkutan Umum Integrasi,1N,Tanah Abang - Blok M,9235
+2021,03,Angkutan Umum Integrasi,1M,Meruya - Blok M,25278
+2021,03,Angkutan Umum Integrasi,1H,Tanah Abang - Stasiun Gondangdia,38768
+2021,03,Angkutan Umum Integrasi,1F,Stasiun Palmerah - Bundaran Senayan,8308
+2021,03,Angkutan Umum Integrasi,1E,Pondok  Labu - Blok M,68895
+2021,03,Angkutan Umum Integrasi,1C,Pesanggrahan - Blok M,14794
+2021,03,Angkutan Umum Integrasi,1B,Stasiun Palmerah - Tosari,20906
+2021,03,Angkutan Umum Integrasi,1A,Pantai Maju - Balai Kota,68592
+2021,03,Angkutan Umum Integrasi,12B,Pluit - Senen,12131
+2021,03,Angkutan Umum Integrasi,11Q,Kampung Melayu - Pulo Gebang via BKT,10948
+2021,03,Angkutan Umum Integrasi,11D,Pulo Gebang - Pulo Gadung 2 via PIK,58186
+2021,03,Angkutan Umum Integrasi,10K,Tanjung Priok - Senen via Taman  BMW,36891
+2021,04,Mikrotrans,JAK.88,Terminal Tanjung Priok - Ancol Barat,31791
+2021,04,Mikrotrans,JAK.85,Bintara - Cipinang Indah,26835
+2021,04,Mikrotrans,JAK.84,Terminal Kampung Melayu - Kapin Raya,40223
+2021,04,Mikrotrans,JAK.80,Rawa Buaya - Rawa Kompeni,64948
+2021,04,Mikrotrans,JA.77,Tanjung Priok - Jembatan Item,69143
+2021,04,Mikrotrans,JAK.75,Cililitan - Kp. Pulo,49851
+2021,04,Mikrotrans,JAK.74,Terminal Rawamangun - Cipinang Muara,44545
+2021,04,Mikrotrans,JAK.73,Jambore Cibubur - Pasar Rebo,73486
+2021,04,Mikrotrans,JAK.72,Kampung Rambutan - Pasar Rebo via Poncol,104102
+2021,04,Mikrotrans,JAK.71,Kampung Rambutan - Pinang Ranti,71173
+2021,04,Mikrotrans,JAK.64,Lenteng Agung - Aseli,47623
+2021,04,Mikrotrans,JAK.61,Cempaka Putih - Pulo Gadung via Kelapa Gading,42043
+2021,04,Mikrotrans,JAK.60,Kelapa Gading - Rusun Kemayoran,73738
+2021,04,Mikrotrans,JAK.59,Rawamangun - Tanah Merah,94492
+2021,04,Mikrotrans,JAK.58,Cilingcing - Rorotan,102437
+2021,04,Mikrotrans,JAK.56,Grogol - Srengseng,55901
+2021,04,Mikrotrans,JAK.54,Grogol - Benhil,39120
+2021,04,Mikrotrans,JAK.53,Grogol - Pos Pengumben via Slipi,36642
+2021,04,Mikrotrans,JAK.52,Kalideres - Muara Angke,61905
+2021,04,Mikrotrans,JAK.51,Taman Kota - Budi Luhur,108669
+2021,04,Mikrotrans,JAK.50,Kalideres - Puri Kembangan,71057
+2021,04,Mikrotrans,JAK.49,Lebak Bulus - Cipulir,44479
+2021,04,Mikrotrans,JAK.47,Pasar Minggu - Ciganjur via KB Ragunan,53740
+2021,04,Mikrotrans,JAK.46,Pasar Minggu - Jagakarsa,87618
+2021,04,Mikrotrans,JAK.45,Lebak Bulus - Ragunan,58579
+2021,04,Mikrotrans,JAK.44,Andara - Stasiun Universitas Pancasila,67175
+2021,04,Mikrotrans,JAK.43,Tongtek - Cililitan,91751
+2021,04,Mikrotrans,JAK.42,Kampung Melayu - Pondok Kelapa,67771
+2021,04,Mikrotrans,JAK.41,Kampung Melayu - Ppulo Gadung,40336
+2021,04,Mikrotrans,JAK.40,Harapan Baru - Pulo Gebang via Rawa Kuning,46119
+2021,04,Mikrotrans,JAK.39,Kalimalang - Duren Sawit,66948
+2021,04,Mikrotrans,JAK.38,Bulak Ringin - Kampung Rambutan,51343
+2021,04,Mikrotrans,JAK.37,Cililitan - Condet via Kayu Manis,59481
+2021,04,Mikrotrans,JAK.36,Cilangkap - Cililitan,99921
+2021,04,Mikrotrans,JAK.35,Pangkalan  Jati - Rawamangun,33547
+2021,04,Mikrotrans,JAK.34,Rawamangun - Klender,83256
+2021,04,Mikrotrans,JAK.33,Pulo Gadung - Kota,53128
+2021,04,Mikrotrans,JAK.32,Lebak Bulus - Petukangan,96164
+2021,04,Mikrotrans,JAK.31,Blok M - Andara,68488
+2021,04,Mikrotrans,JAK.30,Grogol - Meruya via Roxy,151229
+2021,04,Mikrotrans,JAK.29,Tanjung Priok - Sukapura,114250
+2021,04,Mikrotrans,JAK.28,Kp. Rambutan - Taman Wiladatika,70553
+2021,04,Mikrotrans,JAK.27,Pulo Gebang - Rorotan,47678
+2021,04,Mikrotrans,JAK.26,Rawamangun - Duren Sawit,44229
+2021,04,Mikrotrans,JAK.25,Kp. Rambutan - Kalisari,62570
+2021,04,Mikrotrans,JAK.24,Senen - Pulo Gadung via Kelapa Gading,77864
+2021,04,Mikrotrans,JAK.22,Dwikora - Penas Kalimalang,31455
+2021,04,Mikrotrans,JAK.21,Cililitan - Dwikora,64590
+2021,04,Mikrotrans,JAK.20,Cawang UKI - Lubang Buaya,67887
+"2021,04,Mikrotrans,""JAK,19"",Pinang Ranti - Kampung Rambutan,120531"
+2021,04,Mikrotrans,JAK.18,Kalibata - Kuningan,36923
+2021,04,Mikrotrans,JAK.17,Senen - Pulo Gadung ,43320
+2021,04,Mikrotrans,JAK.16,Cililitan - Condet via Kayu Manis,76238
+2021,04,Mikrotrans,JAK.15,Bulak Turi - Tanjung Priok,134431
+2021,04,Mikrotrans,JAK.14,Tanah Abang - Meruya,96813
+2021,04,Mikrotrans,JAK.13,Tanah Abang - Kota Intan via Jembatan Lima,17877
+2021,04,Mikrotrans,JAK.12,Tanah Abang - Kebayoran Lama via Pos Pengumben,67485
+2021,04,Mikrotrans,JAK.117,Tanjung Priok - Tanah Merdeka,83132
+2021,04,Mikrotrans,JAK.112,Terminal Tanah Merah - Pulo Gadung,51550
+2021,04,Mikrotrans,JAK.11,Tanah Abang - Kebayoran Lama ,74291
+2021,04,Mikrotrans,JAK.10,Tanah Abang - Kota ,55248
+2021,04,Mikrotrans,JAK.09,Roxy Mas - Karet,23484
+2021,04,Mikrotrans,JAK.08,Roxy - Benhil,38120
+2021,04,Mikrotrans,JAK.07,Tanah Abang - Grogol via Tawakal,53720
+2021,04,Mikrotrans,JAK.06,Kampung Rambutan - Pondok Gede,82859
+2021,04,Mikrotrans,JAK.05,Semper - Rorotan,73686
+2021,04,Mikrotrans,JAK.04,Grogol - Tubagus Angke,51988
+2021,04,Mikrotrans,JAK.03,Lebak Bulus - Andara,35820
+2021,04,Mikrotrans,JAK.02,Kampung Melayu - Duren Sawit,51757
+2021,04,Mikrotrans,JAK.01,Tanjung Priok - Plumpang,65366
+2021,04,BRT,9,Pinang Ranti - Pluit,750330
+2021,04,BRT,8,Lebak Bulus - Harmoni,515105
+2021,04,BRT,7,Kampung Rambutan - Kampung Melayu,442653
+2021,04,BRT,6,Ragunan - Dukuh Atas 2,399984
+2021,04,BRT,5,Kampung Melayu - Ancol,488359
+2021,04,BRT,4,Pulo Gadung 2 - Tosari,302574
+2021,04,BRT,3,Kalideres - Pasar Baru,528578
+2021,04,BRT,2,Pulo Gadung 1 - Harmoni,387163
+2021,04,BRT,13,Ciledug - Tendean,342002
+2021,04,BRT,12,Penjaringan - Sunter Bouleverd Barat,161849
+2021,04,BRT,11,Pulo Gebang - Kampung Melayu,162931
+2021,04,BRT,10,Tanjung Priok - PGC 2,424169
+2021,04,BRT,1,Blok M - Kota,1003534
+2021,04,Angkutan Umum Integrasi,9H,Cipedak - Blok M,12866
+2021,04,Angkutan Umum Integrasi,9E,Kebayoran Lama - Jelambar,13390
+2021,04,Angkutan Umum Integrasi,9D,Pasar Minggu - Tanah Abang,81041
+2021,04,Angkutan Umum Integrasi,8K,Batu Sari-Tanah Abang,8991
+2021,04,Angkutan Umum Integrasi,8E,Bintaro - Blok M,19625
+2021,04,Angkutan Umum Integrasi,8D,Joglo - Blok M,32476
+2021,04,Angkutan Umum Integrasi,8C,Kebayoran Lama - Tanah Abang,20132
+2021,04,Angkutan Umum Integrasi,7P,Pondok Kelapa - BKN,25016
+2021,04,Angkutan Umum Integrasi,7D,Pancoran - TMII,23932
+2021,04,Angkutan Umum Integrasi,7B,Kampung Rambutan - Blok M,79510
+2021,04,Angkutan Umum Integrasi,7A,Kampung Rambutan - Lebak Bulus,55940
+2021,04,Angkutan Umum Integrasi,6R,Ragunan - Stasin MRT Fatmawati,1456
+2021,04,Angkutan Umum Integrasi,6N,Ragunan - Blok M via Kemang,24508
+2021,04,Angkutan Umum Integrasi,6M,Stasiun Manggarai - Blok  M,24651
+2021,04,Angkutan Umum Integrasi,6H,Senen - Lebak Bulus,18696
+2021,04,Angkutan Umum Integrasi,6C,Stasin Tebet - Karet via Patra Kuningan,93015
+2021,04,Angkutan Umum Integrasi,5M,Kampung Melayu - Tanah Abang via Cikini,82099
+2021,04,Angkutan Umum Integrasi,5F,Kampung Melayu - Tanah Abang,19869
+2021,04,Angkutan Umum Integrasi,5B,Stasiun Tebet - Bidara Cina,8900
+2021,04,Angkutan Umum Integrasi,4F,Pinang Ranti - Pulo Gadung,40791
+2021,04,Angkutan Umum Integrasi,4B,Stasiun Manggarai - UI,39665
+2021,04,Angkutan Umum Integrasi,3E,Sentraland Cengkareng - Puri Kembangan,23523
+2021,04,Angkutan Umum Integrasi,1R,Senen - Tanah Abang,12332
+2021,04,Angkutan Umum Integrasi,1Q,Rempoa - Blok M,27234
+2021,04,Angkutan Umum Integrasi,1P,Senen - Bundaran Senayan,7598
+2021,04,Angkutan Umum Integrasi,1N,Tanah Abang - Blok M,6413
+2021,04,Angkutan Umum Integrasi,1M,Meruya - Blok M,26770
+2021,04,Angkutan Umum Integrasi,1H,Tanah Abang - Stasiun Gondangdia,38538
+2021,04,Angkutan Umum Integrasi,1F,Stasiun Palmerah - Bundaran Senayan,8696
+2021,04,Angkutan Umum Integrasi,1E,Pondok  Labu - Blok M,68159
+2021,04,Angkutan Umum Integrasi,1C,Pesanggrahan - Blok M,16091
+2021,04,Angkutan Umum Integrasi,1B,Stasiun Palmerah - Tosari,22586
+2021,04,Angkutan Umum Integrasi,1A,PIK - Balai Kota,69934
+2021,04,Angkutan Umum Integrasi,12B,Pluit - Senen,12887
+2021,04,Angkutan Umum Integrasi,11Q,Kampung Melayu - Pulo Gebang via BKT,11128
+2021,04,Angkutan Umum Integrasi,11D,Pulo Gebang - Pulo Gadung 2 via PIK,55677
+2021,04,Angkutan Umum Integrasi,10K,Tanjung Priok - Senen via Taman  BMW,34736
+2021,05,Mikrotrans,JAK.88,Terminal Tanjung Priok - Ancol Barat,29592
+2021,05,Mikrotrans,JAK.85,Bintara - Cipinang Indah,28069
+2021,05,Mikrotrans,JAK.84,Terminal Kampung Melayu - Kapin Raya,40355
+2021,05,Mikrotrans,JAK.80,Rawa Buaya - Rawa Kompeni,66030
+2021,05,Mikrotrans,JA.77,Tanjung Priok - Jembatan Item,62948
+2021,05,Mikrotrans,JAK.75,Cililitan - Kp. Pulo,46434
+2021,05,Mikrotrans,JAK.74,Terminal Rawamangun - Cipinang Muara,43117
+2021,05,Mikrotrans,JAK.73,Jambore Cibubur - Pasar Rebo,74041
+2021,05,Mikrotrans,JAK.72,Kampung Rambutan - Pasar Rebo via Poncol,98840
+2021,05,Mikrotrans,JAK.71,Kampung Rambutan - Pinang Ranti,63711
+2021,05,Mikrotrans,JAK.64,Lenteng Agung - Aseli,44437
+2021,05,Mikrotrans,JAK.61,Cempaka Putih - Pulo Gadung via Kelapa Gading,37132
+2021,05,Mikrotrans,JAK.60,Kelapa Gading - Rusun Kemayoran,70382
+2021,05,Mikrotrans,JAK.59,Rawamangun - Tanah Merah,88187
+2021,05,Mikrotrans,JAK.58,Cilingcing - Rorotan,96611
+2021,05,Mikrotrans,JAK.56,Grogol - Srengseng,52740
+2021,05,Mikrotrans,JAK.54,Grogol - Benhil,39288
+2021,05,Mikrotrans,JAK.53,Grogol - Pos Pengumben via Slipi,35808
+2021,05,Mikrotrans,JAK.52,Kalideres - Muara Angke,57570
+2021,05,Mikrotrans,JAK.51,Taman Kota - Budi Luhur,97315
+2021,05,Mikrotrans,JAK.50,Kalideres - Puri Kembangan,67209
+2021,05,Mikrotrans,JAK.49,Lebak Bulus - Cipulir,42656
+2021,05,Mikrotrans,JAK.47,Pasar Minggu - Ciganjur via KB Ragunan,52794
+2021,05,Mikrotrans,JAK.46,Pasar Minggu - Jagakarsa,82255
+2021,05,Mikrotrans,JAK.45,Lebak Bulus - Ragunan,56396
+2021,05,Mikrotrans,JAK.44,Andara - Stasiun Universitas Pancasila,64791
+2021,05,Mikrotrans,JAK.43,Tongtek - Cililitan,91303
+2021,05,Mikrotrans,JAK.42,Kampung Melayu - Pondok Kelapa,67202
+2021,05,Mikrotrans,JAK.41,Kampung Melayu - Ppulo Gadung,39978
+2021,05,Mikrotrans,JAK.40,Harapan Baru - Pulo Gebang via Rawa Kuning,44007
+2021,05,Mikrotrans,JAK.39,Kalimalang - Duren Sawit,64356
+2021,05,Mikrotrans,JAK.38,Bulak Ringin - Kampung Rambutan,51306
+2021,05,Mikrotrans,JAK.37,Cililitan - Condet via Kayu Manis,58115
+2021,05,Mikrotrans,JAK.36,Cilangkap - Cililitan,90157
+2021,05,Mikrotrans,JAK.35,Pangkalan  Jati - Rawamangun,34739
+2021,05,Mikrotrans,JAK.34,Rawamangun - Klender,79082
+2021,05,Mikrotrans,JAK.33,Pulo Gadung - Kota,48601
+2021,05,Mikrotrans,JAK.32,Lebak Bulus - Petukangan,88819
+2021,05,Mikrotrans,JAK.31,Blok M - Andara,63954
+2021,05,Mikrotrans,JAK.30,Grogol - Meruya via Roxy,136430
+2021,05,Mikrotrans,JAK.29,Tanjung Priok - Sukapura,108161
+2021,05,Mikrotrans,JAK.28,Kp. Rambutan - Taman Wiladatika,67506
+2021,05,Mikrotrans,JAK.27,Pulo Gebang - Rorotan,47707
+2021,05,Mikrotrans,JAK.26,Rawamangun - Duren Sawit,43724
+2021,05,Mikrotrans,JAK.25,Kp. Rambutan - Kalisari,62075
+2021,05,Mikrotrans,JAK.24,Senen - Pulo Gadung via Kelapa Gading,73953
+2021,05,Mikrotrans,JAK.22,Dwikora - Penas Kalimalang,32690
+2021,05,Mikrotrans,JAK.21,Cililitan - Dwikora,61989
+2021,05,Mikrotrans,JAK.20,Cawang UKI - Lubang Buaya,64374
+"2021,05,Mikrotrans,""JAK,19"",Pinang Ranti - Kampung Rambutan,115780"
+2021,05,Mikrotrans,JAK.18,Kalibata - Kuningan,35873
+2021,05,Mikrotrans,JAK.17,Senen - Pulo Gadung ,39786
+2021,05,Mikrotrans,JAK.16,Cililitan - Condet via Kayu Manis,71832
+2021,05,Mikrotrans,JAK.15,Bulak Turi - Tanjung Priok,129203
+2021,05,Mikrotrans,JAK.14,Tanah Abang - Meruya,83600
+2021,05,Mikrotrans,JAK.13,Tanah Abang - Kota Intan via Jembatan Lima,17058
+2021,05,Mikrotrans,JAK.12,Tanah Abang - Kebayoran Lama via Pos Pengumben,65327
+2021,05,Mikrotrans,JAK.117,Tanjung Priok - Tanah Merdeka,85211
+2021,05,Mikrotrans,JAK.112,Terminal Tanah Merah - Pulo Gadung,49628
+2021,05,Mikrotrans,JAK.11,Tanah Abang - Kebayoran Lama ,69701
+2021,05,Mikrotrans,JAK.10,Tanah Abang - Kota ,49104
+2021,05,Mikrotrans,JAK.09,Roxy Mas - Karet,19727
+2021,05,Mikrotrans,JAK.08,Roxy - Benhil,29436
+2021,05,Mikrotrans,JAK.07,Tanah Abang - Grogol via Tawakal,49450
+2021,05,Mikrotrans,JAK.06,Kampung Rambutan - Pondok Gede,82681
+2021,05,Mikrotrans,JAK.05,Semper - Rorotan,72159
+2021,05,Mikrotrans,JAK.04,Grogol - Tubagus Angke,51092
+2021,05,Mikrotrans,JAK.03,Lebak Bulus - Andara,34997
+2021,05,Mikrotrans,JAK.02,Kampung Melayu - Duren Sawit,51453
+2021,05,Mikrotrans,JAK.01,Tanjung Priok - Plumpang,62646
+2021,05,BRT,9,Pinang Ranti - Pluit,663201
+2021,05,BRT,8,Lebak Bulus - Harmoni,480392
+2021,05,BRT,7,Kampung Rambutan - Kampung Melayu,416381
+2021,05,BRT,6,Ragunan - Dukuh Atas 2,351285
+2021,05,BRT,5,Kampung Melayu - Ancol,469390
+2021,05,BRT,4,Pulo Gadung 2 - Tosari,269533
+2021,05,BRT,3,Kalideres - Pasar Baru,496285
+2021,05,BRT,2,Pulo Gadung 1 - Harmoni,358525
+2021,05,BRT,13,Ciledug - Tendean,323662
+2021,05,BRT,12,Penjaringan - Sunter Bouleverd Barat,138371
+2021,05,BRT,11,Pulo Gebang - Kampung Melayu,154256
+2021,05,BRT,10,Tanjung Priok - PGC 2,396760
+2021,05,BRT,1,Blok M - Kota,937452
+2021,05,Angkutan Umum Integrasi,9H,Cipedak - Blok M,10968
+2021,05,Angkutan Umum Integrasi,9E,Kebayoran Lama - Jelambar,10808
+2021,05,Angkutan Umum Integrasi,9D,Pasar Minggu - Tanah Abang,72275
+2021,05,Angkutan Umum Integrasi,8K,Batu Sari-Tanah Abang,6416
+2021,05,Angkutan Umum Integrasi,8E,Bintaro - Blok M,18780
+2021,05,Angkutan Umum Integrasi,8D,Joglo - Blok M,27926
+2021,05,Angkutan Umum Integrasi,8C,Kebayoran Lama - Tanah Abang,17630
+2021,05,Angkutan Umum Integrasi,7P,Pondok Kelapa - BKN,22375
+2021,05,Angkutan Umum Integrasi,7D,Pancoran - TMII,22748
+2021,05,Angkutan Umum Integrasi,7B,Kampung Rambutan - Blok M,74042
+2021,05,Angkutan Umum Integrasi,7A,Kampung Rambutan - Lebak Bulus,59239
+2021,05,Angkutan Umum Integrasi,6R,Ragunan - Stasin MRT Fatmawati,1955
+2021,05,Angkutan Umum Integrasi,6N,Ragunan - Blok M via Kemang,23488
+2021,05,Angkutan Umum Integrasi,6M,Stasiun Manggarai - Blok  M,19834
+2021,05,Angkutan Umum Integrasi,6H,Senen - Lebak Bulus,14432
+2021,05,Angkutan Umum Integrasi,6F,Stasiun Manggarai - Ragunan,377
+2021,05,Angkutan Umum Integrasi,6C,Stasin Tebet - Karet via Patra Kuningan,71930
+2021,05,Angkutan Umum Integrasi,5M,Kampung Melayu - Tanah Abang via Cikini,72543
+2021,05,Angkutan Umum Integrasi,5F,Kampung Melayu - Tanah Abang,16819
+2021,05,Angkutan Umum Integrasi,5B,Stasiun Tebet - Bidara Cina,6123
+2021,05,Angkutan Umum Integrasi,4F,Pinang Ranti - Pulo Gadung,30816
+2021,05,Angkutan Umum Integrasi,4B,Stasiun Manggarai - UI,31316
+2021,05,Angkutan Umum Integrasi,3E,Sentraland Cengkareng - Puri Kembangan,22119
+2021,05,Angkutan Umum Integrasi,1R,Senen - Tanah Abang,25213
+2021,05,Angkutan Umum Integrasi,1Q,Rempoa - Blok M,25213
+2021,05,Angkutan Umum Integrasi,1P,Senen - Bundaran Senayan,5854
+2021,05,Angkutan Umum Integrasi,1N,Tanah Abang - Blok M,6932
+2021,05,Angkutan Umum Integrasi,1M,Meruya - Blok M,23297
+2021,05,Angkutan Umum Integrasi,1H,Tanah Abang - Stasiun Gondangdia,30212
+2021,05,Angkutan Umum Integrasi,1F,Stasiun Palmerah - Bundaran Senayan,6395
+2021,05,Angkutan Umum Integrasi,1E,Pondok  Labu - Blok M,60908
+2021,05,Angkutan Umum Integrasi,1C,Pesanggrahan - Blok M,16327
+2021,05,Angkutan Umum Integrasi,1B,Stasiun Palmerah - Tosari,18874
+2021,05,Angkutan Umum Integrasi,1A ,PIK - Balai Kota,62524
+2021,05,Angkutan Umum Integrasi,12B,Pluit - Senen,9408
+2021,05,Angkutan Umum Integrasi,11Q,Kampung Melayu - Pulo Gebang via BKT,8906
+2021,05,Angkutan Umum Integrasi,11D,Pulo Gebang - Pulo Gadung 2 via PIK,51102
+2021,05,Angkutan Umum Integrasi,10K,Tanjung Priok - Senen via Taman  BMW,31667
+2021,05,Angkutan Umum Integrasi,GR2,Tanah Abang Explorer,3945
+2021,05,Angkutan Umum Integrasi,GR3,Ragunan - Departemen Pertanian,1386
+2021,05,Angkutan Umum Integrasi,GR4,Taman Kota Intan - Museum Bahari,17
+2021,05,Angkutan Umum Integrasi,GR5,Kota Tua Explorer,24
+2021,06,Mikrotrans,JAK.88,Terminal Tanjung Priok - Ancol Barat,33636
+2021,06,Mikrotrans,JAK.85,Bintara - Cipinang Indah,30376
+2021,06,Mikrotrans,JAK.84,Terminal Kampung Melayu - Kapin Raya,43502
+2021,06,Mikrotrans,JAK.80,Rawa Buaya - Rawa Kompeni,67559
+2021,06,Mikrotrans,JA.77,Tanjung Priok - Jembatan Item,73193
+2021,06,Mikrotrans,JAK.75,Cililitan - Kp. Pulo,49284
+2021,06,Mikrotrans,JAK.74,Terminal Rawamangun - Cipinang Muara,43869
+2021,06,Mikrotrans,JAK.73,Jambore Cibubur - Pasar Rebo,75138
+2021,06,Mikrotrans,JAK.72,Kampung Rambutan - Pasar Rebo via Poncol,100305
+2021,06,Mikrotrans,JAK.71,Kampung Rambutan - Pinang Ranti,63162
+2021,06,Mikrotrans,JAK.64,Lenteng Agung - Aseli,48331
+2021,06,Mikrotrans,JAK.61,Cempaka Putih - Pulo Gadung via Kelapa Gading,41219
+2021,06,Mikrotrans,JAK.60,Kelapa Gading - Rusun Kemayoran,73595
+2021,06,Mikrotrans,JAK.59,Rawamangun - Tanah Merah,88536
+2021,06,Mikrotrans,JAK.58,Cilingcing - Rorotan,101903
+2021,06,Mikrotrans,JAK.56,Grogol - Srengseng,57394
+2021,06,Mikrotrans,JAK.54,Grogol - Benhil,40997
+2021,06,Mikrotrans,JAK.53,Grogol - Pos Pengumben via Slipi,39339
+2021,06,Mikrotrans,JAK.52,Kalideres - Muara Angke,65733
+2021,06,Mikrotrans,JAK.51,Taman Kota - Budi Luhur,108644
+2021,06,Mikrotrans,JAK.50,Kalideres - Puri Kembangan,69534
+2021,06,Mikrotrans,JAK.49,Lebak Bulus - Cipulir,43143
+2021,06,Mikrotrans,JAK.47,Pasar Minggu - Ciganjur via KB Ragunan,53892
+2021,06,Mikrotrans,JAK.46,Pasar Minggu - Jagakarsa,82501
+2021,06,Mikrotrans,JAK.45,Lebak Bulus - Ragunan,57551
+2021,06,Mikrotrans,JAK.44,Andara - Stasiun Universitas Pancasila,68704
+2021,06,Mikrotrans,JAK.43,Tongtek - Cililitan,92420
+2021,06,Mikrotrans,JAK.42,Kampung Melayu - Pondok Kelapa,69476
+2021,06,Mikrotrans,JAK.41,Kampung Melayu - Ppulo Gadung,40724
+2021,06,Mikrotrans,JAK.40,Harapan Baru - Pulo Gebang via Rawa Kuning,47087
+2021,06,Mikrotrans,JAK.39,Kalimalang - Duren Sawit,63562
+2021,06,Mikrotrans,JAK.38,Bulak Ringin - Kampung Rambutan,54526
+2021,06,Mikrotrans,JAK.37,Cililitan - Condet via Kayu Manis,56898
+2021,06,Mikrotrans,JAK.36,Cilangkap - Cililitan,86425
+2021,06,Mikrotrans,JAK.35,Pangkalan  Jati - Rawamangun,36012
+2021,06,Mikrotrans,JAK.34,Rawamangun - Klender,75158
+2021,06,Mikrotrans,JAK.33,Pulo Gadung - Kota,56710
+2021,06,Mikrotrans,JAK.32,Lebak Bulus - Petukangan,92744
+2021,06,Mikrotrans,JAK.31,Blok M - Andara,65838
+2021,06,Mikrotrans,JAK.30,Grogol - Meruya via Roxy,147239
+2021,06,Mikrotrans,JAK.29,Tanjung Priok - Sukapura,116097
+2021,06,Mikrotrans,JAK.28,Kp. Rambutan - Taman Wiladatika,67277
+2021,06,Mikrotrans,JAK.27,Pulo Gebang - Rorotan,49619
+2021,06,Mikrotrans,JAK.26,Rawamangun - Duren Sawit,42770
+2021,06,Mikrotrans,JAK.25,Kp. Rambutan - Kalisari,64095
+2021,06,Mikrotrans,JAK.24,Senen - Pulo Gadung via Kelapa Gading,82803
+2021,06,Mikrotrans,JAK.22,Dwikora - Penas Kalimalang,34486
+2021,06,Mikrotrans,JAK.21,Cililitan - Dwikora,63804
+2021,06,Mikrotrans,JAK.20,Cawang UKI - Lubang Buaya,67727
+"2021,06,Mikrotrans,""JAK,19"",Pinang Ranti - Kampung Rambutan,115017"
+2021,06,Mikrotrans,JAK.18,Kalibata - Kuningan,35311
+2021,06,Mikrotrans,JAK.17,Senen - Pulo Gadung ,42227
+2021,06,Mikrotrans,JAK.16,Cililitan - Condet via Kayu Manis,76292
+2021,06,Mikrotrans,JAK.15,Bulak Turi - Tanjung Priok,131981
+2021,06,Mikrotrans,JAK.14,Tanah Abang - Meruya,89403
+2021,06,Mikrotrans,JAK.13,Tanah Abang - Kota Intan via Jembatan Lima,18790
+2021,06,Mikrotrans,JAK.12,Tanah Abang - Kebayoran Lama via Pos Pengumben,70817
+2021,06,Mikrotrans,JAK.117,Tanjung Priok - Tanah Merdeka,86067
+2021,06,Mikrotrans,JAK.112,Terminal Tanah Merah - Pulo Gadung,54658
+2021,06,Mikrotrans,JAK.11,Tanah Abang - Kebayoran Lama ,78127
+2021,06,Mikrotrans,JAK.10,Tanah Abang - Kota ,50663
+2021,06,Mikrotrans,JAK.09,Roxy Mas - Karet,23423
+2021,06,Mikrotrans,JAK.08,Roxy - Benhil,38072
+2021,06,Mikrotrans,JAK.07,Tanah Abang - Grogol via Tawakal,57293
+2021,06,Mikrotrans,JAK.06,Kampung Rambutan - Pondok Gede,81073
+2021,06,Mikrotrans,JAK.05,Semper - Rorotan,77085
+2021,06,Mikrotrans,JAK.04,Grogol - Tubagus Angke,58619
+2021,06,Mikrotrans,JAK.03,Lebak Bulus - Andara,36032
+2021,06,Mikrotrans,JAK.02,Kampung Melayu - Duren Sawit,49639
+2021,06,Mikrotrans,JAK.01,Ttanjung Priok - Plumpang,62146
+2021,06,BRT,9,Pinang Ranti - Pluit,692649
+2021,06,BRT,8,Lebak Bulus - Harmoni,477804
+2021,06,BRT,7,Kampung Rambutan - Kampung Melayu,405333
+2021,06,BRT,6,Ragunan - Dukuh Atas 2,371126
+2021,06,BRT,5,Kampung Melayu - Ancol,453222
+2021,06,BRT,4,Pulo Ggadung 2 - Tosari,276418
+2021,06,BRT,3,Kalideres - Pasar Baru,484181
+2021,06,BRT,2,Pulo Gadung 1 - Harmoni,351897
+2021,06,BRT,13,Ciledug - Tendean,315765
+2021,06,BRT,12,Penjaringan - Sunter Bouleverd Barat,148267
+2021,06,BRT,11,Pulo Gebang - Kampung Melayu,148933
+2021,06,BRT,10,Tanjung Priok - PGC 2,393998
+2021,06,BRT,1,Blok M - Kota,899829
+2021,06,Angkutan Umum Integrasi,9H,Cipedak - Blok M,13557
+2021,06,Angkutan Umum Integrasi,9E,Kebayoran Lama - Jelambar,11879
+2021,06,Angkutan Umum Integrasi,9D,Pasar Minggu - Tanah Abang,71780
+2021,06,Angkutan Umum Integrasi,8K,Batu Sari-Tanah Abang,8238
+2021,06,Angkutan Umum Integrasi,8E,Bintaro - Blok M,17795
+2021,06,Angkutan Umum Integrasi,8D,Joglo - Blok M,26030
+2021,06,Angkutan Umum Integrasi,8C,Kebayoran Lama - Tanah Abang,20094
+2021,06,Angkutan Umum Integrasi,7P,Pondok Kelapa - BKN,24185
+2021,06,Angkutan Umum Integrasi,7D,Pancoran - TMII,23775
+2021,06,Angkutan Umum Integrasi,7B,Kampung Rambutan - Blok M,76133
+2021,06,Angkutan Umum Integrasi,7A,Kampung Rambutan - Lebak Bulus,64778
+2021,06,Angkutan Umum Integrasi,6R,Ragunan - Stasin MRT Fatmawati,2135
+2021,06,Angkutan Umum Integrasi,6N,Ragunan - Blok M via Kemang,24422
+2021,06,Angkutan Umum Integrasi,6M,Stasiun Manggarai - Blok  M,21967
+2021,06,Angkutan Umum Integrasi,6H,Senen - Lebak Bulus,17682
+2021,06,Angkutan Umum Integrasi,6C,Stasin Tebet - Karet via Patra Kuningan,76188
+2021,06,Angkutan Umum Integrasi,5M,Kampung Melayu - Tanah Abang via Cikini,75577
+2021,06,Angkutan Umum Integrasi,5F,Kampung Melayu - Tanah Abang,18759
+2021,06,Angkutan Umum Integrasi,5B,Stasiun Tebet - Bidara Cina,6849
+2021,06,Angkutan Umum Integrasi,4F,Pinang Ranti - Pulo Gadung,38174
+2021,06,Angkutan Umum Integrasi,4B,Stasiun Manggarai - UI,37813
+2021,06,Angkutan Umum Integrasi,3E,Sentraland Cengkareng - Puri Kembangan,23236
+2021,06,Angkutan Umum Integrasi,1R,Senen - Tanah Abang,12806
+2021,06,Angkutan Umum Integrasi,1Q,Rempoa - Blok M,26985
+2021,06,Angkutan Umum Integrasi,1P,Senen - Bundaran Senayan,8474
+2021,06,Angkutan Umum Integrasi,1N,Tanah Abang - Blok M,9246
+2021,06,Angkutan Umum Integrasi,1M,Meruya - Blok M,22951
+2021,06,Angkutan Umum Integrasi,1H,Tanah Abang - Stasiun Gondangdia,39470
+2021,06,Angkutan Umum Integrasi,1F,Stasiun Palmerah - Bundaran Senayan,6886
+2021,06,Angkutan Umum Integrasi,1E,Pondok  Labu - Blok M,63772
+2021,06,Angkutan Umum Integrasi,1C,Pesanggrahan - Blok M,14938
+2021,06,Angkutan Umum Integrasi,1B,Stasiun Palmerah - Tosari,22033
+2021,06,Angkutan Umum Integrasi,1A ,PIK - Balai Kota,66928
+2021,06,Angkutan Umum Integrasi,12B,Pluit - Senen,10761
+2021,06,Angkutan Umum Integrasi,11Q,Kampung Melayu - Pulo Gebang via BKT,10744
+2021,06,Angkutan Umum Integrasi,11D,Pulo Gebang - Pulo Gadung 2 via PIK,50089
+2021,06,Angkutan Umum Integrasi,10K,Tanjung Priok - Senen via Taman  BMW,32798
+2021,06,Angkutan Umum Integrasi,GR4,Taman Kota Intan - Museum Bahari,1
+2021,06,Angkutan Umum Integrasi,GR5,Kota Tua Explorer,33
+2021,07,Mikrotrans,JAK.88,Terminal Tanjung Priok - Ancol Barat,27538
+2021,07,Mikrotrans,JAK.85,Bintara - Cipinang Indah,25470
+2021,07,Mikrotrans,JAK.84,Terminal Kampung Melayu - Kapin Raya,40086
+2021,07,Mikrotrans,JAK.80,Rawa Buaya - Rawa Kompeni,60821
+2021,07,Mikrotrans,JA.77,Tanjung Priok - Jembatan Item,60267
+2021,07,Mikrotrans,JAK.75,Cililitan - Kp. Pulo,42919
+2021,07,Mikrotrans,JAK.74,Terminal Rawamangun - Cipinang Muara,39415
+2021,07,Mikrotrans,JAK.73,Jambore Cibubur - Pasar Rebo,61657
+2021,07,Mikrotrans,JAK.72,Kampung Rambutan - Pasar Rebo via Poncol,86419
+2021,07,Mikrotrans,JAK.71,Kampung Rambutan - Pinang Ranti,61194
+2021,07,Mikrotrans,JAK.64,Lenteng Agung - Aseli,35142
+2021,07,Mikrotrans,JAK.61,Cempaka Putih - Pulo Gadung via Kelapa Gading,29397
+2021,07,Mikrotrans,JAK.60,Kelapa Gading - Rusun Kemayoran,51455
+2021,07,Mikrotrans,JAK.59,Rawamangun - Tanah Merah,68926
+2021,07,Mikrotrans,JAK.58,Cilingcing - Rorotan,84804
+2021,07,Mikrotrans,JAK.56,Grogol - Srengseng,50173
+2021,07,Mikrotrans,JAK.54,Grogol - Benhil,35059
+2021,07,Mikrotrans,JAK.53,Grogol - Pos Pengumben via Slipi,35322
+2021,07,Mikrotrans,JAK.52,Kalideres - Muara Angke,55626
+2021,07,Mikrotrans,JAK.51,Taman Kota - Budi Luhur,90388
+2021,07,Mikrotrans,JAK.50,Kalideres - Puri Kembangan,59756
+2021,07,Mikrotrans,JAK.49,Lebak Bulus - Cipulir,35304
+2021,07,Mikrotrans,JAK.47,Pasar Minggu - Ciganjur via KB Ragunan,42179
+2021,07,Mikrotrans,JAK.46,Pasar Minggu - Jagakarsa,70972
+2021,07,Mikrotrans,JAK.45,Lebak Bulus - Ragunan,42681
+2021,07,Mikrotrans,JAK.44,Andara - Stasiun Universitas Pancasila,53677
+2021,07,Mikrotrans,JAK.43,Tongtek - Cililitan,69302
+2021,07,Mikrotrans,JAK.42,Kampung Melayu - Pondok Kelapa,59935
+2021,07,Mikrotrans,JAK.41,Kampung Melayu - Ppulo Gadung,39265
+2021,07,Mikrotrans,JAK.40,Harapan Baru - Pulo Gebang via Rawa Kuning,39761
+2021,07,Mikrotrans,JAK.39,Kalimalang - Duren Sawit,50834
+2021,07,Mikrotrans,JAK.38,Bulak Ringin - Kampung Rambutan,41201
+2021,07,Mikrotrans,JAK.37,Cililitan - Condet via Kayu Manis,43598
+2021,07,Mikrotrans,JAK.36,Cilangkap - Cililitan,59082
+2021,07,Mikrotrans,JAK.35,Pangkalan  Jati - Rawamangun,33239
+2021,07,Mikrotrans,JAK.34,Rawamangun - Klender,66981
+2021,07,Mikrotrans,JAK.33,Pulo Gadung - Kota,53882
+2021,07,Mikrotrans,JAK.32,Lebak Bulus - Petukangan,65877
+2021,07,Mikrotrans,JAK.31,Blok M - Andara,47265
+2021,07,Mikrotrans,JAK.30,Grogol - Meruya via Roxy,115750
+2021,07,Mikrotrans,JAK.29,Tanjung Priok - Sukapura,102252
+2021,07,Mikrotrans,JAK.28,Kp. Rambutan - Taman Wiladatika,60833
+2021,07,Mikrotrans,JAK.27,Pulo Gebang - Rorotan,45238
+2021,07,Mikrotrans,JAK.26,Rawamangun - Duren Sawit,34525
+2021,07,Mikrotrans,JAK.25,Kp. Rambutan - Kalisari,51709
+2021,07,Mikrotrans,JAK.24,Senen - Pulo Gadung via Kelapa Gading,67255
+2021,07,Mikrotrans,JAK.22,Dwikora - Penas Kalimalang,22151
+2021,07,Mikrotrans,JAK.21,Cililitan - Dwikora,50079
+2021,07,Mikrotrans,JAK.20,Cawang UKI - Lubang Buaya,54167
+"2021,07,Mikrotrans,""JAK,19"",Pinang Ranti - Kampung Rambutan,89642"
+2021,07,Mikrotrans,JAK.18,Kalibata - Kuningan,27976
+2021,07,Mikrotrans,JAK.17,Senen - Pulo Gadung ,40998
+2021,07,Mikrotrans,JAK.16,Cililitan - Condet via Kayu Manis,67962
+2021,07,Mikrotrans,JAK.15,Bulak Turi - Tanjung Priok,107567
+2021,07,Mikrotrans,JAK.14,Tanah Abang - Meruya,68627
+2021,07,Mikrotrans,JAK.13,Tanah Abang - Kota Intan via Jembatan Lima,16554
+2021,07,Mikrotrans,JAK.12,Tanah Abang - Kebayoran Lama via Pos Pengumben,62106
+2021,07,Mikrotrans,JAK.117,Tanjung Priok - Tanah Merdeka,75944
+2021,07,Mikrotrans,JAK.112,Terminal Tanah Merah - Pulo Gadung,47747
+2021,07,Mikrotrans,JAK.11,Tanah Abang - Kebayoran Lama ,64412
+2021,07,Mikrotrans,JAK. 10B,Gondangdia - Cikini via Kramat Jaya,3136
+2021,07,Mikrotrans,JAK.10A,Gondangdia - Cikini via Salemba Raya,19060
+2021,07,Mikrotrans,JAK.10,Tanah Abang - Kota ,40221
+2021,07,Mikrotrans,JAK.09,Roxy Mas - Karet,16921
+2021,07,Mikrotrans,JAK.08,Roxy - Benhil,24959
+2021,07,Mikrotrans,JAK.07,Tanah Abang - Grogol via Tawakal,41852
+2021,07,Mikrotrans,JAK.06,Kampung Rambutan - Pondok Gede,63751
+2021,07,Mikrotrans,JAK.05,Semper - Rorotan,61720
+2021,07,Mikrotrans,JAK.04,Grogol - Tubagus Angke,52237
+2021,07,Mikrotrans,JAK.03,Lebak Bulus - Andara,28719
+2021,07,Mikrotrans,JAK.02,Kampung Melayu - Duren Sawit,41284
+2021,07,Mikrotrans,JAK.01,Tanjung Priok - Plumpang,53303
+2021,07,BRT,9,Pinang Ranti - Pluit,326712
+2021,07,BRT,8,Lebak Bulus - Harmoni,194713
+2021,07,BRT,7,Kampung Rambutan - Kampung Melayu,174682
+2021,07,BRT,6,Ragunan - Dukuh Atas 2,157941
+2021,07,BRT,5,Kampung Melayu - Ancol,181565
+2021,07,BRT,4,Pulo Gadung 2 - Tosari,118923
+2021,07,BRT,3,Kalideres - Pasar Baru,205148
+2021,07,BRT,2,Pulo Gadung 1 - Harmoni,143327
+2021,07,BRT,13,Ciledug - Tendean,124158
+2021,07,BRT,12,Penjaringan - Sunter Bouleverd Barat,62403
+2021,07,BRT,11,Pulo Gebang - Kampung Melayu,62391
+2021,07,BRT,10,Tanjung Priok - PGC 2,175900
+2021,07,BRT,1,Blok M - Kota,344528
+2021,07,Angkutan Umum Integrasi,9H,Cipedak - Blok M,9158
+2021,07,Angkutan Umum Integrasi,9E,Kebayoran Lama - Jelambar,7914
+2021,07,Angkutan Umum Integrasi,9D,Pasar Minggu - Tanah Abang,41267
+2021,07,Angkutan Umum Integrasi,8K,Batu Sari-Tanah Abang,3406
+2021,07,Angkutan Umum Integrasi,8E,Bintaro - Blok M,8853
+2021,07,Angkutan Umum Integrasi,8D,Joglo - Blok M,13387
+2021,07,Angkutan Umum Integrasi,8C,Kebayoran Lama - Tanah Abang,1186
+2021,07,Angkutan Umum Integrasi,7P,Pondok Kelapa - BKN,10617
+2021,07,Angkutan Umum Integrasi,7D,Pancoran - TMII,9570
+2021,07,Angkutan Umum Integrasi,7B,Kampung Rambutan - Blok M,38429
+2021,07,Angkutan Umum Integrasi,7A,Kampung Rambutan - Lebak Bulus,36224
+2021,07,Angkutan Umum Integrasi,6R,Ragunan - Stasin MRT Fatmawati,1026
+2021,07,Angkutan Umum Integrasi,6N,Ragunan - Blok M via Kemang,12623
+2021,07,Angkutan Umum Integrasi,6M,Stasiun Manggarai - Blok  M,10908
+2021,07,Angkutan Umum Integrasi,6H,Senen - Lebak Bulus,8552
+2021,07,Angkutan Umum Integrasi,6C,Stasin Tebet - Karet via Patra Kuningan,42384
+2021,07,Angkutan Umum Integrasi,5M,Kampung Melayu - Tanah Abang via Cikini,38167
+2021,07,Angkutan Umum Integrasi,5F,Kampung Melayu - Tanah Abang,6465
+2021,07,Angkutan Umum Integrasi,5B,Stasiun Tebet - Bidara Cina,3603
+2021,07,Angkutan Umum Integrasi,4F,Pinang Ranti - Pulo Gadung,20815
+2021,07,Angkutan Umum Integrasi,4B,Stasiun Manggarai - UI,15182
+2021,07,Angkutan Umum Integrasi,3E ,Sentraland Cengkareng - Puri Kembangan,12046
+2021,07,Angkutan Umum Integrasi,2Q,Gondangdia - Balai Kota,4465
+2021,07,Angkutan Umum Integrasi,2P,Gondangdia - Senen,2029
+2021,07,Angkutan Umum Integrasi,1R,Senen - Tanah Abang,6022
+2021,07,Angkutan Umum Integrasi,1Q,Rempoa - Blok M,14727
+2021,07,Angkutan Umum Integrasi,1P,Senen - Bundaran Senayan,4484
+2021,07,Angkutan Umum Integrasi,1N,Tanah Abang - Blok M,4405
+2021,07,Angkutan Umum Integrasi,1M,Meruya - Blok M,12145
+2021,07,Angkutan Umum Integrasi,1H,Tanah Abang - Stasiun Gondangdia,18340
+2021,07,Angkutan Umum Integrasi,1F,Stasiun Palmerah - Bundaran Senayan,1802
+2021,07,Angkutan Umum Integrasi,1E,Pondok  Labu - Blok M,36585
+2021,07,Angkutan Umum Integrasi,1C,Pesanggrahan - Blok M,7862
+2021,07,Angkutan Umum Integrasi,1B,Stasiun Palmerah - Tosari,10688
+2021,07,Angkutan Umum Integrasi,1A,PIK - Balai Kota,29960
+2021,07,Angkutan Umum Integrasi,12B,Pluit - Senen,4641
+2021,07,Angkutan Umum Integrasi,11Q,Kampung Melayu - Pulo Gebang via BKT,6363
+2021,07,Angkutan Umum Integrasi,11D,Pulo Gebang - Pulo Gadung 2 via PIK,33801
+2021,07,Angkutan Umum Integrasi,10K,Tanjung Priok - Senen via Taman  BMW,23069
+2021,07,Angkutan Umum Integrasi,GR4,Taman Kota Intan - Museum Bahari,7
+2021,07,Angkutan Umum Integrasi,GR5,Kota Tua Explorer,11
+2021,08,Mikrotrans,JAK.88,Terminal Tanjung Priok - Ancol Barat,20245
+2021,08,Mikrotrans,JAK.85,Bintara - Cipinang Indah,19989
+2021,08,Mikrotrans,JAK.84,Terminal Kampung Melayu - Kapin Raya,33638
+2021,08,Mikrotrans,JAK.80,Rawa Buaya - Rawa Kompeni,46653
+2021,08,Mikrotrans,JA.77,Tanjung Priok - Jembatan Item,47157
+2021,08,Mikrotrans,JAK.75,Cililitan - Kp. Pulo,34670
+2021,08,Mikrotrans,JAK.74,Terminal Rawamangun - Cipinang Muara,27982
+2021,08,Mikrotrans,JAK.73,Jambore Cibubur - Pasar Rebo,50707
+2021,08,Mikrotrans,JAK.72,Kampung Rambutan - Pasar Rebo via Poncol,64823
+2021,08,Mikrotrans,JAK.71,Kampung Rambutan - Pinang Ranti,48103
+2021,08,Mikrotrans,JAK.64,Lenteng Agung - Aseli,35068
+2021,08,Mikrotrans,JAK.61,Cempaka Putih - Pulo Gadung via Kelapa Gading,20802
+2021,08,Mikrotrans,JAK.60,Kelapa Gading - Rusun Kemayoran,44923
+2021,08,Mikrotrans,JAK.59,Rawamangun - Tanah Merah,43369
+2021,08,Mikrotrans,JAK.58,Cilingcing - Rorotan,62761
+2021,08,Mikrotrans,JAK.56,Grogol - Srengseng,33731
+2021,08,Mikrotrans,JAK.54,Grogol - Benhil,30485
+2021,08,Mikrotrans,JAK.53,Grogol - Pos Pengumben via Slipi,28991
+2021,08,Mikrotrans,JAK.52,Kalideres - Muara Angke,51132
+2021,08,Mikrotrans,JAK.51,Taman Kota - Budi Luhur,75413
+2021,08,Mikrotrans,JAK.50,Kalideres - Puri Kembangan,45605
+2021,08,Mikrotrans,JAK.49,Lebak Bulus - Cipulir,29621
+2021,08,Mikrotrans,JAK.47,Pasar Minggu - Ciganjur via KB Ragunan,30006
+2021,08,Mikrotrans,JAK.46,Pasar Minggu - Jagakarsa,55148
+2021,08,Mikrotrans,JAK.45,Lebak Bulus - Ragunan,32335
+2021,08,Mikrotrans,JAK.44,Andara - Stasiun Universitas Pancasila,46374
+2021,08,Mikrotrans,JAK.43,Tongtek - Cililitan,58213
+2021,08,Mikrotrans,JAK.42,Kampung Melayu - Pondok Kelapa,47589
+2021,08,Mikrotrans,JAK.41,Kampung Melayu - Ppulo Gadung,32666
+2021,08,Mikrotrans,JAK.40,Harapan Baru - Pulo Gebang via Rawa Kuning,22353
+2021,08,Mikrotrans,JAK.39,Kalimalang - Duren Sawit,43139
+2021,08,Mikrotrans,JAK.38,Bulak Ringin - Kampung Rambutan,33889
+2021,08,Mikrotrans,JAK.37,Cililitan - Condet via Kayu Manis,37567
+2021,08,Mikrotrans,JAK.36,Cilangkap - Cililitan,46615
+2021,08,Mikrotrans,JAK.35,Pangkalan  Jati - Rawamangun,22681
+2021,08,Mikrotrans,JAK.34,Rawamangun - Klender,46147
+2021,08,Mikrotrans,JAK.33,Pulo Gadung - Kota,36510
+2021,08,Mikrotrans,JAK.32,Lebak Bulus - Petukangan,52495
+2021,08,Mikrotrans,JAK.31,Blok M - Andara,42042
+2021,08,Mikrotrans,JAK.30,Grogol - Meruya via Roxy,98364
+2021,08,Mikrotrans,JAK.29,Tanjung Priok - Sukapura,76445
+2021,08,Mikrotrans,JAK.28,Kp. Rambutan - Taman Wiladatika,43060
+2021,08,Mikrotrans,JAK.27,Pulo Gebang - Rorotan,26092
+2021,08,Mikrotrans,JAK.26,Rawamangun - Duren Sawit,27039
+2021,08,Mikrotrans,JAK.25,Kp. Rambutan - Kalisari,36277
+2021,08,Mikrotrans,JAK.24,Senen - Pulo Gadung via Kelapa Gading,49233
+2021,08,Mikrotrans,JAK.22,Dwikora - Penas Kalimalang,13571
+2021,08,Mikrotrans,JAK.21,Cililitan - Dwikora,50101
+2021,08,Mikrotrans,JAK.20,Cawang UKI - Lubang Buaya,38834
+"2021,08,Mikrotrans,""JAK,19"",Pinang Ranti - Kampung Rambutan,72845"
+2021,08,Mikrotrans,JAK.18,Kalibata - Kuningan,21168
+2021,08,Mikrotrans,JAK.17,Senen - Pulo Gadung ,31113
+2021,08,Mikrotrans,JAK.16,Cililitan - Condet via Kayu Manis,48505
+2021,08,Mikrotrans,JAK.15,Bulak Turi - Tanjung Priok,81655
+2021,08,Mikrotrans,JAK.14,Tanah Abang - Meruya,51129
+2021,08,Mikrotrans,JAK.13,Tanah Abang - Kota Intan via Jembatan Lima,13403
+2021,08,Mikrotrans,JAK.12,Tanah Abang - Kebayoran Lama via Pos Pengumben,48687
+2021,08,Mikrotrans,JAK.117,Tanjung Priok - Tanah Merdeka,60534
+2021,08,Mikrotrans,JAK.112,Terminal Tanah Merah - Pulo Gadung,37541
+2021,08,Mikrotrans,JAK.11,Tanah Abang - Kebayoran Lama ,53707
+2021,08,Mikrotrans,JAK.10,Tanah Abang - Kota ,36689
+2021,08,Mikrotrans,JAK.09,Roxy Mas - Karet,17927
+2021,08,Mikrotrans,JAK.08,Roxy - Benhil,27251
+2021,08,Mikrotrans,JAK.07,Tanah Abang - Grogol via Tawakal,34491
+2021,08,Mikrotrans,JAK.06,Kampung Rambutan - Pondok Gede,45647
+2021,08,Mikrotrans,JAK.05,Semper - Rorotan,43302
+2021,08,Mikrotrans,JAK.04,Grogol - Tubagus Angke,37882
+2021,08,Mikrotrans,JAK.03,Lebak Bulus - Andara,24756
+2021,08,Mikrotrans,JAK.02,Kampung Melayu - Duren Sawit,31289
+2021,08,Mikrotrans,JAK.01,Tanjung Priok - Plumpang,46703
+2021,08,BRT,9,Pinang Ranti - Pluit,399358
+2021,08,BRT,8,Lebak Bulus - Harmoni,248009
+2021,08,BRT,7,Kampung Rambutan - Kampung Melayu,211537
+2021,08,BRT,6,Ragunan - Dukuh Atas 2,194549
+2021,08,BRT,5,Kampung Melayu - Ancol,228704
+2021,08,BRT,4,Pulo Gadung 2 - Tosari,147131
+2021,08,BRT,3,Kalideres - Pasar Baru,263067
+2021,08,BRT,2,Pulo Gadung 1 - Harmoni,182122
+2021,08,BRT,13,Ciledug - Tendean,160187
+2021,08,BRT,12,Penjaringan - Sunter Bouleverd Barat,80348
+2021,08,BRT,11,Pulo Gebang - Kampung Melayu,74753
+2021,08,BRT,10,Tanjung Priok - PGC 2,213453
+2021,08,BRT,1,Blok M - Kota,462959
+2021,08,Angkutan Umum Integrasi,9H,Cipedak - Blok M,11808
+2021,08,Angkutan Umum Integrasi,9E,Kebayoran Lama - Jelambar,10317
+2021,08,Angkutan Umum Integrasi,9D,Pasar Minggu - Tanah Abang,57029
+2021,08,Angkutan Umum Integrasi,8K,Batu Sari-Tanah Abang,5714
+2021,08,Angkutan Umum Integrasi,8E,Bintaro - Blok M,12951
+2021,08,Angkutan Umum Integrasi,8D,Joglo - Blok M,16723
+2021,08,Angkutan Umum Integrasi,8C,Kebayoran Lama - Tanah Abang,0
+2021,08,Angkutan Umum Integrasi,7P,Pondok Kelapa - BKN,16352
+2021,08,Angkutan Umum Integrasi,7D,Pancoran - TMII,11908
+2021,08,Angkutan Umum Integrasi,7B,Kampung Rambutan - Blok M,46807
+2021,08,Angkutan Umum Integrasi,7A,Kampung Rambutan - Lebak Bulus,46292
+2021,08,Angkutan Umum Integrasi,6R,Ragunan - Stasin MRT Fatmawati,0
+2021,08,Angkutan Umum Integrasi,6N,Ragunan - Blok M via Kemang,16390
+2021,08,Angkutan Umum Integrasi,6M,Stasiun Manggarai - Blok  M,13300
+2021,08,Angkutan Umum Integrasi,6H,Senen - Lebak Bulus,11982
+2021,08,Angkutan Umum Integrasi,6C,Stasin Tebet - Karet via Patra Kuningan,48241
+2021,08,Angkutan Umum Integrasi,5M,Kampung Melayu - Tanah Abang via Cikini,53175
+2021,08,Angkutan Umum Integrasi,5F,Kampung Melayu - Tanah Abang,9152
+2021,08,Angkutan Umum Integrasi,5B,Stasiun Tebet - Bidara Cina,3862
+2021,08,Angkutan Umum Integrasi,4F,Pinang Ranti - Pulo Gadung,22307
+2021,08,Angkutan Umum Integrasi,4B,Stasiun Manggarai - UI,18891
+2021,08,Angkutan Umum Integrasi,3E,Sentraland Cengkareng - Puri Kembangan,16416
+2021,08,Angkutan Umum Integrasi,1R,Senen - Tanah Abang,7866
+2021,08,Angkutan Umum Integrasi,1Q,Rempoa - Blok M,18185
+2021,08,Angkutan Umum Integrasi,1P,Senen - Bundaran Senayan,5409
+2021,08,Angkutan Umum Integrasi,1N,Tanah Abang - Blok M,7796
+2021,08,Angkutan Umum Integrasi,1M,Meruya - Blok M,15888
+2021,08,Angkutan Umum Integrasi,1H,Tanah Abang - Stasiun Gondangdia,22581
+2021,08,Angkutan Umum Integrasi,1F,Stasiun Palmerah - Bundaran Senayan,51375
+2021,08,Angkutan Umum Integrasi,1E,Pondok  Labu - Blok M,11069
+2021,08,Angkutan Umum Integrasi,1C,Pesanggrahan - Blok M,16271
+2021,08,Angkutan Umum Integrasi,1B,Stasiun Palmerah - Tosari,0
+2021,08,Angkutan Umum Integrasi,1A ,PIK - Balai Kota,35608
+2021,08,Angkutan Umum Integrasi,12B,Pluit - Senen,5602
+2021,08,Angkutan Umum Integrasi,11Q,Kampung Melayu - Pulo Gebang via BKT,7829
+2021,08,Angkutan Umum Integrasi,11D,Pulo Gebang - Pulo Gadung 2 via PIK,40578
+2021,08,Angkutan Umum Integrasi,10K,Tanjung Priok - Senen via Taman  BMW,29478
+2021,08,Angkutan Umum Integrasi,GR4,Taman Kota Intan - Museum Bahari,14
+2021,08,Angkutan Umum Integrasi,GR5,Kota Tua Explorer,8
+2021,09,Mikrotrans,JAK.88,Terminal Tanjung Priok - Ancol Barat,21569
+2021,09,Mikrotrans,JAK.85,Bintara - Cipinang Indah,23109
+2021,09,Mikrotrans,JAK.84,Terminal Kampung Melayu - Kapin Raya,36842
+2021,09,Mikrotrans,JAK.80,Rawa Buaya - Rawa Kompeni,46648
+2021,09,Mikrotrans,JA.77,Tanjung Priok - Jembatan Item,48302
+2021,09,Mikrotrans,JAK.75,Cililitan - Kp. Pulo,35365
+2021,09,Mikrotrans,JAK.74,Terminal Rawamangun - Cipinang Muara,30072
+2021,09,Mikrotrans,JAK.73,Jambore Cibubur - Pasar Rebo,59539
+2021,09,Mikrotrans,JAK.72,Kampung Rambutan - Pasar Rebo via Poncol,64779
+2021,09,Mikrotrans,JAK.71,Kampung Rambutan - Pinang Ranti,48561
+2021,09,Mikrotrans,JAK.64,Lenteng Agung - Aseli,40201
+2021,09,Mikrotrans,JAK.61,Cempaka Putih - Pulo Gadung via Kelapa Gading,25171
+2021,09,Mikrotrans,JAK.60,Kelapa Gading - Rusun Kemayoran,52090
+2021,09,Mikrotrans,JAK.59,Rawamangun - Tanah Merah,49257
+2021,09,Mikrotrans,JAK.58,Cilingcing - Rorotan,71733
+2021,09,Mikrotrans,JAK.56,Grogol - Srengseng,34100
+2021,09,Mikrotrans,JAK.54,Grogol - Benhil,33008
+2021,09,Mikrotrans,JAK.53,Grogol - Pos Pengumben via Slipi,33250
+2021,09,Mikrotrans,JAK.52,Kalideres - Muara Angke,53897
+2021,09,Mikrotrans,JAK.51,Taman Kota - Budi Luhur,77687
+2021,09,Mikrotrans,JAK.50,Kalideres - Puri Kembangan,50104
+2021,09,Mikrotrans,JAK.49,Lebak Bulus - Cipulir,33207
+2021,09,Mikrotrans,JAK.47,Pasar Minggu - Ciganjur via KB Ragunan,32568
+2021,09,Mikrotrans,JAK.46,Pasar Minggu - Jagakarsa,60542
+2021,09,Mikrotrans,JAK.45,Lebak Bulus - Ragunan,38024
+2021,09,Mikrotrans,JAK.44,Andara - Stasiun Universitas Pancasila,50060
+2021,09,Mikrotrans,JAK.43,Tongtek - Cililitan,69032
+2021,09,Mikrotrans,JAK.42,Kampung Melayu - Pondok Kelapa,51065
+2021,09,Mikrotrans,JAK.41,Kampung Melayu - Pulo Gadung,33668
+2021,09,Mikrotrans,JAK.40,Harapan Baru - Pulo Gebang via Rawa Kuning,26059
+2021,09,Mikrotrans,JAK.39,Kalimalang - Duren Sawit,48378
+2021,09,Mikrotrans,JAK.38,Bulak Ringin - Kampung Rambutan,34714
+2021,09,Mikrotrans,JAK.37,Cililitan - Condet via Kayu Manis,43800
+2021,09,Mikrotrans,JAK.36,Cilangkap - Cililitan,49923
+2021,09,Mikrotrans,JAK.35,Pangkalan  Jati - Rawamangun,26455
+2021,09,Mikrotrans,JAK.34,Rawamangun - Klender,50790
+2021,09,Mikrotrans,JAK.33,Pulo Gadung - Kota,38197
+2021,09,Mikrotrans,JAK.32,Lebak Bulus - Petukangan,59259
+2021,09,Mikrotrans,JAK.31,Blok M - Andara,46546
+2021,09,Mikrotrans,JAK.30,Grogol - Meruya via Roxy,103286
+2021,09,Mikrotrans,JAK.29,Tanjung Priok - Sukapura,82109
+2021,09,Mikrotrans,JAK.28,Kp. Rambutan - Taman Wiladatika,44851
+2021,09,Mikrotrans,JAK.27,Pulo Gebang - Rorotan,28362
+2021,09,Mikrotrans,JAK.26,Rawamangun - Duren Sawit,29082
+2021,09,Mikrotrans,JAK.25,Kp. Rambutan - Kalisari,38117
+2021,09,Mikrotrans,JAK.24,Senen - Pulo Gadung via Kelapa Gading,55622
+2021,09,Mikrotrans,JAK.22,Dwikora - Penas Kalimalang,18294
+2021,09,Mikrotrans,JAK.21,Cililitan - Dwikora,60358
+2021,09,Mikrotrans,JAK.20,Cawang UKI - Lubang Buaya,43086
+"2021,09,Mikrotrans,""JAK,19"",Pinang Ranti - Kampung Rambutan,80525"
+2021,09,Mikrotrans,JAK.18,Kalibata - Kuningan,22686
+2021,09,Mikrotrans,JAK.17,Senen - Pulo Gadung ,32948
+2021,09,Mikrotrans,JAK.16,Cililitan - Condet via Kayu Manis,55189
+2021,09,Mikrotrans,JAK.15,Bulak Turi - Tanjung Priok,88818
+2021,09,Mikrotrans,JAK.14,Tanah Abang - Meruya,54146
+2021,09,Mikrotrans,JAK.13,Tanah Abang - Kota Intan via Jembatan Lima,13942
+2021,09,Mikrotrans,JAK.12,Tanah Abang - Kebayoran Lama via Pos Pengumben,47757
+2021,09,Mikrotrans,JAK.117,Tanjung Priok - Tanah Merdeka,65450
+2021,09,Mikrotrans,JAK.112,Terminal Tanah Merah - Pulo Gadung,42918
+2021,09,Mikrotrans,JAK.11,Tanah Abang - Kebayoran Lama ,55623
+2021,09,Mikrotrans,JAK.10,Tanah Abang - Kota ,39097
+2021,09,Mikrotrans,JAK.09,Roxy Mas - Karet,20117
+2021,09,Mikrotrans,JAK.08,Roxy - Benhil,31482
+2021,09,Mikrotrans,JAK.07,Tanah Abang - Grogol via Tawakal,40234
+2021,09,Mikrotrans,JAK.06,Kampung Rambutan - Pondok Gede,47876
+2021,09,Mikrotrans,JAK.05,Semper - Rorotan,49580
+2021,09,Mikrotrans,JAK.04,Grogol - Tubagus Angke,39425
+2021,09,Mikrotrans,JAK.03,Lebak Bulus - Andara,29480
+2021,09,Mikrotrans,JAK.02,Kampung Melayu - Duren Sawit,33996
+2021,09,Mikrotrans,JAK.01,Tanjung Priok - Plumpang,50127
+2021,09,BRT,9,Pinang Ranti - Pluit,576669
+2021,09,BRT,8,Lebak Bulus - Harmoni,374777
+2021,09,BRT,7,Kampung Rambutan - Kampung Melayu,320701
+2021,09,BRT,6,Ragunan - Dukuh Atas 2,294430
+2021,09,BRT,5,Kampung Melayu - Ancol,357909
+2021,09,BRT,4,Pulo Gadung 2 - Tosari,225026
+2021,09,BRT,3,Kalideres - Pasar Baru,398693
+2021,09,BRT,2,Pulo Gadung 1 - Harmoni,277799
+2021,09,BRT,13,Ciledug - Tendean,254820
+2021,09,BRT,12,Penjaringan - Sunter Bouleverd Barat,121086
+2021,09,BRT,11,Pulo Gebang - Kampung Melayu,116020
+2021,09,BRT,10,Tanjung Priok - PGC 2,315308
+2021,09,BRT,1,Blok M - Kota,735653
+2021,09,Angkutan Umum Integrasi,9H,Cipedak - Blok M,15763
+2021,09,Angkutan Umum Integrasi,9E,Kebayoran Lama - Jelambar,15640
+2021,09,Angkutan Umum Integrasi,9D,Pasar Minggu - Tanah Abang,70179
+2021,09,Angkutan Umum Integrasi,8K,Batu Sari-Tanah Abang,8898
+2021,09,Angkutan Umum Integrasi,8E,Bintaro - Blok M,16354
+2021,09,Angkutan Umum Integrasi,8D,Joglo - Blok M,21647
+2021,09,Angkutan Umum Integrasi,8C,Kebayoran Lama - Tanah Abang,0
+2021,09,Angkutan Umum Integrasi,7P,Pondok Kelapa - BKN,22113
+2021,09,Angkutan Umum Integrasi,7D,Pancoran - TMII,17735
+2021,09,Angkutan Umum Integrasi,7B,Kampung Rambutan - Blok M,63312
+2021,09,Angkutan Umum Integrasi,7A,Kampung Rambutan - Lebak Bulus,65877
+2021,09,Angkutan Umum Integrasi,6R,Ragunan - Stasin MRT Fatmawati,0
+2021,09,Angkutan Umum Integrasi,6N,Ragunan - Blok M via Kemang,21774
+2021,09,Angkutan Umum Integrasi,6M,Stasiun Manggarai - Blok  M,18302
+2021,09,Angkutan Umum Integrasi,6H,Senen - Lebak Bulus,18253
+2021,09,Angkutan Umum Integrasi,6C,Stasin Tebet - Karet via Patra Kuningan,79500
+2021,09,Angkutan Umum Integrasi,5M,Kampung Melayu - Tanah Abang via Cikini,69464
+2021,09,Angkutan Umum Integrasi,5F,Kampung Melayu - Tanah Abang,13037
+2021,09,Angkutan Umum Integrasi,5B,Stasiun Tebet - Bidara Cina,6075
+2021,09,Angkutan Umum Integrasi,4F,Pinang Ranti - Pulo Gadung,33478
+2021,09,Angkutan Umum Integrasi,4B,Stasiun Manggarai - UI,29193
+2021,09,Angkutan Umum Integrasi,3E,Sentraland Cengkareng - Puri Kembangan,22173
+2021,09,Angkutan Umum Integrasi,1R,Senen - Tanah Abang,11913
+2021,09,Angkutan Umum Integrasi,1Q,Rempoa - Blok M,22527
+2021,09,Angkutan Umum Integrasi,1P,Senen - Bundaran Senayan,7611
+2021,09,Angkutan Umum Integrasi,1N,Tanah Abang - Blok M,12148
+2021,09,Angkutan Umum Integrasi,1M,Meruya - Blok M,18366
+2021,09,Angkutan Umum Integrasi,1H,Tanah Abang - Stasiun Gondangdia,32607
+2021,09,Angkutan Umum Integrasi,1F,Stasiun Palmerah - Bundaran Senayan,0
+2021,09,Angkutan Umum Integrasi,1E,Pondok  Labu - Blok M,65276
+2021,09,Angkutan Umum Integrasi,1C,Pesanggrahan - Blok M,12038
+2021,09,Angkutan Umum Integrasi,1B,Stasiun Palmerah - Tosari,25509
+2021,09,Angkutan Umum Integrasi,1A ,PIK - Balai Kota,54065
+2021,09,Angkutan Umum Integrasi,12B,Pluit - Senen,8145
+2021,09,Angkutan Umum Integrasi,11Q,Kampung Melayu - Pulo Gebang via BKT,9875
+2021,09,Angkutan Umum Integrasi,11D,Pulo Gebang - Pulo Gadung 2 via PIK,48895
+2021,09,Angkutan Umum Integrasi,10K,Tanjung Priok - Senen via Taman  BMW,32614
+2021,09,Angkutan Umum Integrasi,GR4,Taman Kota Intan - Museum Bahari,91
+2021,09,Angkutan Umum Integrasi,GR5,Kota Tua Explorer,15
+2021,10,Mikrotrans,JAK.88,Terminal Tanjung Priok - Ancol Barat,31197
+2021,10,Mikrotrans,JAK.85,Bintara - Cipinang Indah,30711
+2021,10,Mikrotrans,JAK.84,Terminal Kampung Melayu - Kapin Raya,40186
+2021,10,Mikrotrans,JAK.80,Rawa Buaya - Rawa Kompeni,61883
+2021,10,Mikrotrans,JA.77,Tanjung Priok - Jembatan Item,66616
+2021,10,Mikrotrans,JAK.75,Cililitan - Kp. Pulo,50363
+2021,10,Mikrotrans,JAK.74,Terminal Rawamangun - Cipinang Muara,50676
+2021,10,Mikrotrans,JAK.73,Jambore Cibubur - Pasar Rebo,75846
+2021,10,Mikrotrans,JAK.72,Kampung Rambutan - Pasar Rebo via Poncol,97831
+2021,10,Mikrotrans,JAK.71,Kampung Rambutan - Pinang Ranti,57649
+2021,10,Mikrotrans,JAK.64,Lenteng Agung - Aseli,52926
+2021,10,Mikrotrans,JAK.61,Cempaka Putih - Pulo Gadung via Kelapa Gading,35233
+2021,10,Mikrotrans,JAK.60,Kelapa Gading - Rusun Kemayoran,69665
+2021,10,Mikrotrans,JAK.59,Rawamangun - Tanah Merah,72106
+2021,10,Mikrotrans,JAK.58,Cilingcing - Rorotan,91654
+2021,10,Mikrotrans,JAK.56,Grogol - Srengseng,49293
+2021,10,Mikrotrans,JAK.54,Grogol - Benhil,41815
+2021,10,Mikrotrans,JAK.53,Grogol - Pos Pengumben via Slipi,46344
+2021,10,Mikrotrans,JAK.52,Kalideres - Muara Angke,65266
+2021,10,Mikrotrans,JAK.51,Taman Kota - Budi Luhur,104140
+2021,10,Mikrotrans,JAK.50,Kalideres - Puri Kembangan,69097
+2021,10,Mikrotrans,JAK.49,Lebak Bulus - Cipulir,44014
+2021,10,Mikrotrans,JAK.47,Pasar Minggu - Ciganjur via KB Ragunan,50597
+2021,10,Mikrotrans,JAK.46,Pasar Minggu - Jagakarsa,83425
+2021,10,Mikrotrans,JAK.45,Lebak Bulus - Ragunan,48167
+2021,10,Mikrotrans,JAK.44,Andara - Stasiun Universitas Pancasila,64885
+2021,10,Mikrotrans,JAK.43,Tongtek - Cililitan,94923
+2021,10,Mikrotrans,JAK.42,Kampung Melayu - Pondok Kelapa,71096
+2021,10,Mikrotrans,JAK.41,Kampung Melayu - Ppulo Gadung,46177
+2021,10,Mikrotrans,JAK.40,Harapan Baru - Pulo Gebang via Rawa Kuning,41534
+2021,10,Mikrotrans,JAK.39,Kalimalang - Duren Sawit,63975
+2021,10,Mikrotrans,JAK.38,Bulak Ringin - Kampung Rambutan,46304
+2021,10,Mikrotrans,JAK.37,Cililitan - Condet via Kayu Manis,59214
+2021,10,Mikrotrans,JAK.36,Cilangkap - Cililitan,64162
+2021,10,Mikrotrans,JAK.35,Pangkalan  Jati - Rawamangun,32715
+2021,10,Mikrotrans,JAK.34,Rawamangun - Klender,69978
+2021,10,Mikrotrans,JAK.33,Pulo Gadung - Kota,51615
+2021,10,Mikrotrans,JAK.32,Lebak Bulus - Petukangan,79962
+2021,10,Mikrotrans,JAK.31,Blok M - Andara,60715
+2021,10,Mikrotrans,JAK.30,Grogol - Meruya via Roxy,133054
+2021,10,Mikrotrans,JAK.29,Tanjung Priok - Sukapura,117647
+2021,10,Mikrotrans,JAK.28,Kp. Rambutan - Taman Wiladatika,62587
+2021,10,Mikrotrans,JAK.27,Pulo Gebang - Rorotan,51771
+2021,10,Mikrotrans,JAK.26,Rawamangun - Duren Sawit,43232
+2021,10,Mikrotrans,JAK.25,Kp. Rambutan - Kalisari,49474
+2021,10,Mikrotrans,JAK.24,Senen - Pulo Gadung via Kelapa Gading,80125
+2021,10,Mikrotrans,JAK.22,Dwikora - Penas Kalimalang,20483
+2021,10,Mikrotrans,JAK.21,Cililitan - Dwikora,73032
+2021,10,Mikrotrans,JAK.20,Cawang UKI - Lubang Buaya,53380
+"2021,10,Mikrotrans,""JAK,19"",Pinang Ranti - Kampung Rambutan,99743"
+2021,10,Mikrotrans,JAK.18,Kalibata - Kuningan,36622
+2021,10,Mikrotrans,JAK.17,Senen - Pulo Gadung ,51089
+2021,10,Mikrotrans,JAK.16,Cililitan - Condet via Kayu Manis,83100
+2021,10,Mikrotrans,JAK.15,Bulak Turi - Tanjung Priok,120526
+2021,10,Mikrotrans,JAK.14,Tanah Abang - Meruya,91917
+2021,10,Mikrotrans,JAK.13,Tanah Abang - Kota Intan via Jembatan Lima,18200
+2021,10,Mikrotrans,JAK.12,Tanah Abang - Kebayoran Lama via Pos Pengumben,69299
+2021,10,Mikrotrans,JAK.117,Tanjung Priok - Tanah Merdeka,93413
+2021,10,Mikrotrans,JAK.112,Terminal Tanah Merah - Pulo Gadung,73467
+2021,10,Mikrotrans,JAK.11,Tanah Abang - Kebayoran Lama ,78213
+2021,10,Mikrotrans,JAK.10,Tanah Abang - Kota ,49482
+2021,10,Mikrotrans,JAK.09,Roxy Mas - Karet,28495
+2021,10,Mikrotrans,JAK.08,Roxy - Benhil,41236
+2021,10,Mikrotrans,JAK.07,Tanah Abang - Grogol via Tawakal,56372
+2021,10,Mikrotrans,JAK.06,Kampung Rambutan - Pondok Gede,64505
+2021,10,Mikrotrans,JAK.05,Semper - Rorotan,65429
+2021,10,Mikrotrans,JAK.04,Grogol - Tubagus Angke,50863
+2021,10,Mikrotrans,JAK.03,Lebak Bulus - Andara,37131
+2021,10,Mikrotrans,JAK.02,Kampung Melayu - Duren Sawit,48317
+2021,10,Mikrotrans,JAK.01,Tanjung Priok - Plumpang,65293
+2021,10,BRT,9,Pinang Ranti - Pluit,670052
+2021,10,BRT,8,Lebak Bulus - Harmoni,442361
+2021,10,BRT,7,Kampung Rambutan - Kampung Melayu,376261
+2021,10,BRT,6,Ragunan - Dukuh Atas 2,348321
+2021,10,BRT,5,Kampung Melayu - Ancol,430590
+2021,10,BRT,4,Pulo Gadung 2 - Tosari,274326
+2021,10,BRT,3,Kalideres - Pasar Baru,466445
+2021,10,BRT,2,Pulo Gadung 1 - Harmoni,331229
+2021,10,BRT,13,Ciledug - Tendean,307410
+2021,10,BRT,12,Penjaringan - Sunter Bouleverd Barat,140853
+2021,10,BRT,11,Pulo Gebang - Kampung Melayu,135543
+2021,10,BRT,10,Tanjung Priok - PGC 2,369184
+2021,10,BRT,1,Blok M - Kota,903783
+2021,10,Angkutan Umum Integrasi,9H,Cipedak - Blok M,16256
+2021,10,Angkutan Umum Integrasi,9E,Kebayoran Lama - Jelambar,16905
+2021,10,Angkutan Umum Integrasi,9D,Pasar Minggu - Tanah Abang,81799
+2021,10,Angkutan Umum Integrasi,8K,Batu Sari-Tanah Abang,8122
+2021,10,Angkutan Umum Integrasi,8E,Bintaro - Blok M,18112
+2021,10,Angkutan Umum Integrasi,8D,Joglo - Blok M,24637
+2021,10,Angkutan Umum Integrasi,8C,Kebayoran Lama - Tanah Abang,0
+2021,10,Angkutan Umum Integrasi,7P,Pondok Kelapa - BKN,25384
+2021,10,Angkutan Umum Integrasi,7D,Pancoran - TMII,20689
+2021,10,Angkutan Umum Integrasi,7B,Kampung Rambutan - Blok M,77492
+2021,10,Angkutan Umum Integrasi,7A,Kampung Rambutan - Lebak Bulus,80151
+2021,10,Angkutan Umum Integrasi,6R,Ragunan - Stasin MRT Fatmawati,0
+2021,10,Angkutan Umum Integrasi,6N,Ragunan - Blok M via Kemang,25776
+2021,10,Angkutan Umum Integrasi,6M,Stasiun Manggarai - Blok  M,19821
+2021,10,Angkutan Umum Integrasi,6H,Senen - Lebak Bulus,18839
+2021,10,Angkutan Umum Integrasi,6C,Stasin Tebet - Karet via Patra Kuningan,93175
+2021,10,Angkutan Umum Integrasi,5M,Kampung Melayu - Tanah Abang via Cikini,78012
+2021,10,Angkutan Umum Integrasi,5F,Kampung Melayu - Tanah Abang,14392
+2021,10,Angkutan Umum Integrasi,5B,Stasiun Tebet - Bidara Cina,7245
+2021,10,Angkutan Umum Integrasi,4F,Pinang Ranti - Pulo Gadung,34614
+2021,10,Angkutan Umum Integrasi,4B,Stasiun Manggarai - UI,33436
+2021,10,Angkutan Umum Integrasi,3E ,Sentraland Cengkareng - Puri Kembangan,24133
+2021,10,Angkutan Umum Integrasi,1R,Senen - Tanah Abang,12633
+2021,10,Angkutan Umum Integrasi,1Q,Rempoa - Blok M,26660
+2021,10,Angkutan Umum Integrasi,1P,Senen - Bundaran Senayan,9135
+2021,10,Angkutan Umum Integrasi,1N,Tanah Abang - Blok M,12969
+2021,10,Angkutan Umum Integrasi,1M,Meruya - Blok M,20501
+2021,10,Angkutan Umum Integrasi,1H,Tanah Abang - Stasiun Gondangdia,37638
+2021,10,Angkutan Umum Integrasi,1F,Stasiun Palmerah - Bundaran Senayan,0
+2021,10,Angkutan Umum Integrasi,1E,Pondok  Labu - Blok M,71245
+2021,10,Angkutan Umum Integrasi,1C,Pesanggrahan - Blok M,14984
+2021,10,Angkutan Umum Integrasi,1B,Stasiun Palmerah - Tosari,29339
+2021,10,Angkutan Umum Integrasi,1A,PIK - Balai Kota,67571
+2021,10,Angkutan Umum Integrasi,12B,Pluit - Senen,8148
+2021,10,Angkutan Umum Integrasi,11Q,Kampung Melayu - Pulo Gebang via BKT,9781
+2021,10,Angkutan Umum Integrasi,11D,Pulo Gebang - Pulo Gadung 2 via PIK,54197
+2021,10,Angkutan Umum Integrasi,10K,Tanjung Priok - Senen via Taman  BMW,34615
+2021,10,Angkutan Umum Integrasi,GR4,Taman Kota Intan - Museum Bahari,22
+2021,10,Angkutan Umum Integrasi,GR5,Kota Tua Explorer,21
+2021,11,Mikrotrans,JAK.88,Terminal Tanjung Priok - Ancol Barat,40135
+2021,11,Mikrotrans,JAK.85,Bintara - Cipinang Indah,38487
+2021,11,Mikrotrans,JAK.84,Terminal Kampung Melayu - Kapin Raya,49142
+2021,11,Mikrotrans,JAK.80,Rawa Buaya - Rawa Kompeni,66701
+2021,11,Mikrotrans,JA.77,Tanjung Priok - Jembatan Item,75248
+2021,11,Mikrotrans,JAK.75,Cililitan - Kp. Pulo,56825
+2021,11,Mikrotrans,JAK.74,Terminal Rawamangun - Cipinang Muara,55667
+2021,11,Mikrotrans,JAK.73,Jambore Cibubur - Pasar Rebo,84918
+2021,11,Mikrotrans,JAK.72,Kampung Rambutan - Pasar Rebo via Poncol,100864
+2021,11,Mikrotrans,JAK.71,Kampung Rambutan - Pinang Ranti,65152
+2021,11,Mikrotrans,JAK.64,Lenteng Agung - Aseli,61617
+2021,11,Mikrotrans,JAK.61,Cempaka Putih - Pulo Gadung via Kelapa Gading,43632
+2021,11,Mikrotrans,JAK.60,Kelapa Gading - Rusun Kemayoran,79618
+2021,11,Mikrotrans,JAK.59,Rawamangun - Tanah Merah,84370
+2021,11,Mikrotrans,JAK.58,Cilingcing - Rorotan,110584
+2021,11,Mikrotrans,JAK.56,Grogol - Srengseng,55986
+2021,11,Mikrotrans,JAK.54,Grogol - Benhil,52566
+2021,11,Mikrotrans,JAK.53,Grogol - Pos Pengumben via Slipi,61754
+2021,11,Mikrotrans,JAK.52,Kalideres - Muara Angke,79531
+2021,11,Mikrotrans,JAK.51,Taman Kota - Budi Luhur,122865
+2021,11,Mikrotrans,JAK.50,Kalideres - Puri Kembangan,77204
+2021,11,Mikrotrans,JAK.49,Lebak Bulus - Cipulir,50611
+2021,11,Mikrotrans,JAK.47,Pasar Minggu - Ciganjur via KB Ragunan,63835
+2021,11,Mikrotrans,JAK.46,Pasar Minggu - Jagakarsa,106263
+2021,11,Mikrotrans,JAK.45,Lebak Bulus - Ragunan,55555
+2021,11,Mikrotrans,JAK.44,Andara - Stasiun Universitas Pancasila,75946
+2021,11,Mikrotrans,JAK.43,Tongtek - Cililitan,104411
+2021,11,Mikrotrans,JAK.42,Kampung Melayu - Pondok Kelapa,84595
+2021,11,Mikrotrans,JAK.41,Kampung Melayu - Ppulo Gadung,52250
+2021,11,Mikrotrans,JAK.40,Harapan Baru - Pulo Gebang via Rawa Kuning,47573
+2021,11,Mikrotrans,JAK.39,Kalimalang - Duren Sawit,70372
+2021,11,Mikrotrans,JAK.38,Bulak Ringin - Kampung Rambutan,52938
+2021,11,Mikrotrans,JAK.37,Cililitan - Condet via Kayu Manis,69292
+2021,11,Mikrotrans,JAK.36,Cilangkap - Cililitan,80759
+2021,11,Mikrotrans,JAK.35,Pangkalan  Jati - Rawamangun,34484
+2021,11,Mikrotrans,JAK.34,Rawamangun - Klender,71939
+2021,11,Mikrotrans,JAK.33,Pulo Gadung - Kota,64400
+2021,11,Mikrotrans,JAK.32,Lebak Bulus - Petukangan,90627
+2021,11,Mikrotrans,JAK.31,Blok M - Andara,73900
+2021,11,Mikrotrans,JAK.30,Grogol - Meruya via Roxy,160715
+2021,11,Mikrotrans,JAK.29,Tanjung Priok - Sukapura,137509
+2021,11,Mikrotrans,JAK.28,Kp. Rambutan - Taman Wiladatika,75895
+2021,11,Mikrotrans,JAK.27,Pulo Gebang - Rorotan,59685
+2021,11,Mikrotrans,JAK.26,Rawamangun - Duren Sawit,48931
+2021,11,Mikrotrans,JAK.25,Kp. Rambutan - Kalisari,57999
+2021,11,Mikrotrans,JAK.24,Senen - Pulo Gadung via Kelapa Gading,94793
+2021,11,Mikrotrans,JAK.22,Dwikora - Penas Kalimalang,21124
+2021,11,Mikrotrans,JAK.21,Cililitan - Dwikora,77867
+2021,11,Mikrotrans,JAK.20,Cawang UKI - Lubang Buaya,63118
+"2021,11,Mikrotrans,""JAK,19"",Pinang Ranti - Kampung Rambutan,109711"
+2021,11,Mikrotrans,JAK.18,Kalibata - Kuningan,41370
+2021,11,Mikrotrans,JAK.17,Senen - Pulo Gadung ,59969
+2021,11,Mikrotrans,JAK.16,Cililitan - Condet via Kayu Manis,96991
+2021,11,Mikrotrans,JAK.15,Bulak Turi - Tanjung Priok,146160
+2021,11,Mikrotrans,JAK.14,Tanah Abang - Meruya,115672
+2021,11,Mikrotrans,JAK.13,Tanah Abang - Kota Intan via Jembatan Lima,22307
+2021,11,Mikrotrans,JAK.12,Tanah Abang - Kebayoran Lama via Pos Pengumben,80723
+2021,11,Mikrotrans,JAK.117,Tanjung Priok - Tanah Merdeka,103410
+2021,11,Mikrotrans,JAK.112,Terminal Tanah Merah - Pulo Gadung,78124
+2021,11,Mikrotrans,JAK.11,Tanah Abang - Kebayoran Lama ,88319
+2021,11,Mikrotrans,JAK.10B,Gondangdia - Cikini via Kramat Raya,4008
+2021,11,Mikrotrans,JAK.10A,Gondangdia - Cikini via Salemba Raya,30703
+2021,11,Mikrotrans,JAK.10,Tanah Abang - Kota ,59213
+2021,11,Mikrotrans,JAK.09,Roxy Mas - Karet,31253
+2021,11,Mikrotrans,JAK.08,Roxy - Benhil,48046
+2021,11,Mikrotrans,JAK.07,Tanah Abang - Grogol via Tawakal,66471
+2021,11,Mikrotrans,JAK.06,Kampung Rambutan - Pondok Gede,73113
+2021,11,Mikrotrans,JAK.05,Semper - Rorotan,73362
+2021,11,Mikrotrans,JAK.04,Grogol - Tubagus Angke,55910
+2021,11,Mikrotrans,JAK.03,Lebak Bulus - Andara,41216
+2021,11,Mikrotrans,JAK.02,Kampung Melayu - Duren Sawit,56746
+2021,11,Mikrotrans,JAK.01,Tanjung Priok - Plumpang,71927
+2021,11,BRT,9,Pinang Ranti - Pluit,805724
+2021,11,BRT,8,Lebak Bulus - Harmoni,512842
+2021,11,BRT,7,Kampung Rambutan - Kampung Melayu,420738
+2021,11,BRT,6,Ragunan - Dukuh Atas 2,435539
+2021,11,BRT,5,Kampung Melayu - Ancol,487576
+2021,11,BRT,4,Pulo Gadung 2 - Tosari,321515
+2021,11,BRT,3,Kalideres - Pasar Baru,527539
+2021,11,BRT,2,Pulo Gadung 1 - Harmoni,374586
+2021,11,BRT,13,Ciledug - Tendean,305567
+2021,11,BRT,12,Penjaringan - Sunter Bouleverd Barat,163317
+2021,11,BRT,11,Pulo Gebang - Kampung Melayu,148930
+2021,11,BRT,10,Tanjung Priok - PGC 2,421487
+2021,11,BRT,1,Blok M - Kota,1073929
+2021,11,Angkutan Umum Integrasi,9H,Cipedak - Blok M,20159
+2021,11,Angkutan Umum Integrasi,9E,Kebayoran Lama - Jelambar,22996
+2021,11,Angkutan Umum Integrasi,9D,Pasar Minggu - Tanah Abang,87210
+2021,11,Angkutan Umum Integrasi,8K,Batu Sari-Tanah Abang,9463
+2021,11,Angkutan Umum Integrasi,8E,Bintaro - Blok M,19613
+2021,11,Angkutan Umum Integrasi,8D,Joglo - Blok M,27154
+2021,11,Angkutan Umum Integrasi,8C,Kebayoran Lama - Tanah Abang,0
+2021,11,Angkutan Umum Integrasi,7P,Pondok Kelapa - BKN,32337
+2021,11,Angkutan Umum Integrasi,7D,Pancoran - TMII,27221
+2021,11,Angkutan Umum Integrasi,7B,Kampung Rambutan - Blok M,87269
+2021,11,Angkutan Umum Integrasi,7A,Kampung Rambutan - Lebak Bulus,88324
+2021,11,Angkutan Umum Integrasi,6R,Ragunan - Stasin MRT Fatmawati,0
+2021,11,Angkutan Umum Integrasi,6Q,Dukuh Atas - Casablanca via Epicentrum Raya,608
+2021,11,Angkutan Umum Integrasi,6N,Ragunan - Blok M via Kemang,31447
+2021,11,Angkutan Umum Integrasi,6M,Stasiun Manggarai - Blok  M,24756
+2021,11,Angkutan Umum Integrasi,6H,Senen - Lebak Bulus,24583
+2021,11,Angkutan Umum Integrasi,6C,Stasin Tebet - Karet via Patra Kuningan,118725
+2021,11,Angkutan Umum Integrasi,5M,Kampung Melayu - Tanah Abang via Cikini,95933
+2021,11,Angkutan Umum Integrasi,5F,Kampung Melayu - Tanah Abang,18105
+2021,11,Angkutan Umum Integrasi,5B,Stasiun Tebet - Bidara Cina,8999
+2021,11,Angkutan Umum Integrasi,4F,Pinang Ranti - Pulo Gadung,43945
+2021,11,Angkutan Umum Integrasi,4B,Stasiun Manggarai - UI,46314
+2021,11,Angkutan Umum Integrasi,3E,Sentraland Cengkareng - Puri Kembangan,901
+2021,11,Angkutan Umum Integrasi,3E ,Sentraland Cengkareng - Puri Kembangan,27894
+2021,11,Angkutan Umum Integrasi,2Q,Gondangdia - Balai Kota,11567
+2021,11,Angkutan Umum Integrasi,2P,Gondangdia - Senen,4653
+2021,11,Angkutan Umum Integrasi,1R,Senen - Tanah Abang,8995
+2021,11,Angkutan Umum Integrasi,1Q,Rempoa - Blok M,29556
+2021,11,Angkutan Umum Integrasi,1P,Senen - Bundaran Senayan,13565
+2021,11,Angkutan Umum Integrasi,1N,Tanah Abang - Blok M,14060
+2021,11,Angkutan Umum Integrasi,1M,Meruya - Blok M,22326
+2021,11,Angkutan Umum Integrasi,1H,Tanah Abang - Stasiun Gondangdia,50329
+2021,11,Angkutan Umum Integrasi,1F,Stasiun Palmerah - Bundaran Senayan,0
+2021,11,Angkutan Umum Integrasi,1E,Pondok  Labu - Blok M,78905
+2021,11,Angkutan Umum Integrasi,1C,Pesanggrahan - Blok M,16241
+2021,11,Angkutan Umum Integrasi,1B,Stasiun Palmerah - Tosari,40391
+2021,11,Angkutan Umum Integrasi,1A,PIK - Balai Kota,82972
+2021,11,Angkutan Umum Integrasi,12A,Pelabuhan Kaliadem - Kota,1463
+2021,11,Angkutan Umum Integrasi,12B,Pluit - Senen,10187
+2021,11,Angkutan Umum Integrasi,11Q,Kampung Melayu - Pulo Gebang via BKT,11353
+2021,11,Angkutan Umum Integrasi,11D,Pulo Gebang - Pulo Gadung 2 via PIK,59155
+2021,11,Angkutan Umum Integrasi,10K,Tanjung Priok - Senen via Taman  BMW,34498
+2021,11,Angkutan Umum Integrasi,GR4,Taman Kota Intan - Museum Bahari,4
+2021,11,Angkutan Umum Integrasi,GR5,Kota Tua Explorer,3
+2021,12,Mikrotrans,JAK.88,Terminal Tanjung Priok - Ancol Barat,43967
+2021,12,Mikrotrans,JAK.85,Bintara - Cipinang Indah,40103
+2021,12,Mikrotrans,JAK.84,Terminal Kampung Melayu - Kapin Raya,59193
+2021,12,Mikrotrans,JAK.80,Rawa Buaya - Rawa Kompeni,70475
+2021,12,Mikrotrans,JAK.77,Tanjung Priok - Jembatan Item,77697
+2021,12,Mikrotrans,JAK.75,Cililitan - Kp. Pulo,62086
+2021,12,Mikrotrans,JAK.74,Terminal Rawamangun - Cipinang Muara,58622
+2021,12,Mikrotrans,JAK.73,Jambore Cibubur - Pasar Rebo,86917
+2021,12,Mikrotrans,JAK.72,Kampung Rambutan - Pasar Rebo via Poncol,104712
+2021,12,Mikrotrans,JAK.71,Kampung Rambutan - Pinang Ranti,69365
+2021,12,Mikrotrans,JAK.64,Lenteng Agung - Aseli,66235
+2021,12,Mikrotrans,JAK.61,Cempaka Putih - Pulo Gadung via Kelapa Gading,47929
+2021,12,Mikrotrans,JAK.60,Kelapa Gading - Rusun Kemayoran,70382
+2021,12,Mikrotrans,JAK.59,Rawamangun - Tanah Merah,81467
+2021,12,Mikrotrans,JAK.58,Cilingcing - Rorotan,114592
+2021,12,Mikrotrans,JAK.56,Grogol - Srengseng,60415
+2021,12,Mikrotrans,JAK.54,Grogol - Benhil,57178
+2021,12,Mikrotrans,JAK.53,Grogol - Pos Pengumben via Slipi,68275
+2021,12,Mikrotrans,JAK.52,Kalideres - Muara Angke,86276
+2021,12,Mikrotrans,JAK.51,Taman Kota - Budi Luhur,124003
+2021,12,Mikrotrans,JAK.50,Kalideres - Puri Kembangan,79329
+2021,12,Mikrotrans,JAK.49,Lebak Bulus - Cipulir,53972
+2021,12,Mikrotrans,JAK.47,Pasar Minggu - Ciganjur via KB Ragunan,68695
+2021,12,Mikrotrans,JAK.46,Pasar Minggu - Jagakarsa,109328
+2021,12,Mikrotrans,JAK.45,Lebak Bulus - Ragunan,59932
+2021,12,Mikrotrans,JAK.44,Andara - Stasiun Universitas Pancasila,82948
+2021,12,Mikrotrans,JAK.43,Tongtek - Cililitan,104353
+2021,12,Mikrotrans,JAK.42,Kampung Melayu - Pondok Kelapa,95485
+2021,12,Mikrotrans,JAK.41,Kampung Melayu - Ppulo Gadung,57059
+2021,12,Mikrotrans,JAK.40,Harapan Baru - Pulo Gebang via Rawa Kuning,49918
+2021,12,Mikrotrans,JAK.39,Kalimalang - Duren Sawit,75170
+2021,12,Mikrotrans,JAK.38,Bulak Ringin - Kampung Rambutan,56049
+2021,12,Mikrotrans,JAK.37,Cililitan - Condet via Kayu Manis,71809
+2021,12,Mikrotrans,JAK.36,Cilangkap - Cililitan,88277
+2021,12,Mikrotrans,JAK.35,Pangkalan  Jati - Rawamangun,37850
+2021,12,Mikrotrans,JAK.34,Rawamangun - Klender,75763
+2021,12,Mikrotrans,JAK.33,Pulo Gadung - Kota,64986
+2021,12,Mikrotrans,JAK.32,Lebak Bulus - Petukangan,96339
+2021,12,Mikrotrans,JAK.31,Blok M - Andara,80726
+2021,12,Mikrotrans,JAK.30,Grogol - Meruya via Roxy,167782
+2021,12,Mikrotrans,JAK.29,Tanjung Priok - Sukapura,146329
+2021,12,Mikrotrans,JAK.28,Kp. Rambutan - Taman Wiladatika,81435
+2021,12,Mikrotrans,JAK.27,Pulo Gebang - Rorotan,65717
+2021,12,Mikrotrans,JAK.26,Rawamangun - Duren Sawit,51285
+2021,12,Mikrotrans,JAK.25,Kp. Rambutan - Kalisari,64243
+2021,12,Mikrotrans,JAK.24,Senen - Pulo Gadung via Kelapa Gading,101816
+2021,12,Mikrotrans,JAK.22,Dwikora - Penas Kalimalang,22786
+2021,12,Mikrotrans,JAK.21,Cililitan - Dwikora,76970
+2021,12,Mikrotrans,JAK.20,Cawang UKI - Lubang Buaya,62477
+"2021,12,Mikrotrans,""JAK,19"",Pinang Ranti - Kampung Rambutan,110771"
+2021,12,Mikrotrans,JAK.18,Kalibata - Kuningan,43349
+2021,12,Mikrotrans,JAK.17,Senen - Pulo Gadung ,62285
+2021,12,Mikrotrans,JAK.16,Cililitan - Condet via Kayu Manis,90254
+2021,12,Mikrotrans,JAK.15,Bulak Turi - Tanjung Priok,152585
+2021,12,Mikrotrans,JAK.14,Tanah Abang - Meruya,125777
+2021,12,Mikrotrans,JAK.13,Tanah Abang - Kota Intan via Jembatan Lima,24193
+2021,12,Mikrotrans,JAK.12,Tanah Abang - Kebayoran Lama via Pos Pengumben,78580
+2021,12,Mikrotrans,JAK.117,Tanjung Priok - Tanah Merdeka,106506
+2021,12,Mikrotrans,JAK.112,Terminal Tanah Merah - Pulo Gadung,70986
+2021,12,Mikrotrans,JAK.11,Tanah Abang - Kebayoran Lama ,87568
+2021,12,Mikrotrans,JAK.10B,,4085
+2021,12,Mikrotrans,JAK.10A,,33992
+2021,12,Mikrotrans,JAK.10,Tanah Abang - Kota ,62581
+2021,12,Mikrotrans,JAK.09,Roxy Mas - Karet,33555
+2021,12,Mikrotrans,JAK.08,Roxy - Benhil,50409
+2021,12,Mikrotrans,JAK.07,Tanah Abang - Grogol via Tawakal,69904
+2021,12,Mikrotrans,JAK.06,Kampung Rambutan - Pondok Gede,70907
+2021,12,Mikrotrans,JAK.05,Semper - Rorotan,74100
+2021,12,Mikrotrans,JAK.04,Grogol - Tubagus Angke,57870
+2021,12,Mikrotrans,JAK.03,Lebak Bulus - Andara,43991
+2021,12,Mikrotrans,JAK.02,Kampung Melayu - Duren Sawit,59985
+2021,12,Mikrotrans,JAK.01,Tanjung Priok - Plumpang,75915
+2021,12,BRT,9,Pinang Ranti - Pluit,819178
+2021,12,BRT,8,Lebak Bulus - Harmoni,533221
+2021,12,BRT,7,Kampung Rambutan - Kampung Melayu,402368
+2021,12,BRT,6,Ragunan - Dukuh Atas 2,401232
+2021,12,BRT,5,Kampung Melayu - Ancol,513138
+2021,12,BRT,4,Pulo Gadung 2 - Tosari,319411
+2021,12,BRT,3,Kalideres - Pasar Baru,465124
+2021,12,BRT,2,Pulo Gadung 1 - Harmoni,380760
+2021,12,BRT,13,Ciledug - Tendean,337233
+2021,12,BRT,12,Penjaringan - Sunter Bouleverd Barat,167399
+2021,12,BRT,11,Pulo Gebang - Kampung Melayu,163776
+2021,12,BRT,10,Tanjung Priok - PGC 2,419198
+2021,12,BRT,1,Blok M - Kota,1131439
+2021,12,Angkutan Umum Integrasi,9H,Cipedak - Blok M,0
+2021,12,Angkutan Umum Integrasi,9E,Kebayoran Lama - Jelambar,0
+2021,12,Angkutan Umum Integrasi,9D,Pasar Minggu - Tanah Abang,0
+2021,12,Angkutan Umum Integrasi,8K,Batu Sari-Tanah Abang,0
+2021,12,Angkutan Umum Integrasi,8E,Bintaro - Blok M,0
+2021,12,Angkutan Umum Integrasi,8D,Joglo - Blok M,0
+2021,12,Angkutan Umum Integrasi,8C,Kebayoran Lama - Tanah Abang,0
+2021,12,Angkutan Umum Integrasi,7P,Pondok Kelapa - BKN,0
+2021,12,Angkutan Umum Integrasi,7D,Pancoran - TMII,0
+2021,12,Angkutan Umum Integrasi,7B,Kampung Rambutan - Blok M,0
+2021,12,Angkutan Umum Integrasi,7A,Kampung Rambutan - Lebak Bulus,0
+2021,12,Angkutan Umum Integrasi,6R,Ragunan - Stasin MRT Fatmawati,0
+2021,12,Angkutan Umum Integrasi,6N,Ragunan - Blok M via Kemang,0
+2021,12,Angkutan Umum Integrasi,6M,Stasiun Manggarai - Blok  M,0
+2021,12,Angkutan Umum Integrasi,6H,Senen - Lebak Bulus,8
+2021,12,Angkutan Umum Integrasi,6C,Stasin Tebet - Karet via Patra Kuningan,0
+2021,12,Angkutan Umum Integrasi,5M,Kampung Melayu - Tanah Abang via Cikini,0
+2021,12,Angkutan Umum Integrasi,5F,Kampung Melayu - Tanah Abang,0
+2021,12,Angkutan Umum Integrasi,5B,Stasiun Tebet - Bidara Cina,0
+2021,12,Angkutan Umum Integrasi,4F,Pinang Ranti - Pulo Gadung,0
+2021,12,Angkutan Umum Integrasi,4B,Stasiun Manggarai - UI,0
+2021,12,Angkutan Umum Integrasi,3E,Sentraland Cengkareng - Puri Kembangan,0
+2021,12,Angkutan Umum Integrasi,1R,Senen - Tanah Abang,176
+2021,12,Angkutan Umum Integrasi,1Q,Rempoa - Blok M,0
+2021,12,Angkutan Umum Integrasi,1P,Senen - Bundaran Senayan,0
+2021,12,Angkutan Umum Integrasi,1N,Tanah Abang - Blok M,0
+2021,12,Angkutan Umum Integrasi,1M,Meruya - Blok M,0
+2021,12,Angkutan Umum Integrasi,1H,Tanah Abang - Stasiun Gondangdia,0
+2021,12,Angkutan Umum Integrasi,1F,Stasiun Palmerah - Bundaran Senayan,0
+2021,12,Angkutan Umum Integrasi,1E,Pondok  Labu - Blok M,0
+2021,12,Angkutan Umum Integrasi,1C,Pesanggrahan - Blok M,0
+2021,12,Angkutan Umum Integrasi,1B,Stasiun Palmerah - Tosari,0
+2021,12,Angkutan Umum Integrasi,1A,PIK - Balai Kota,0
+2021,12,Angkutan Umum Integrasi,12B,Pluit - Senen,0
+2021,12,Angkutan Umum Integrasi,11Q,Kampung Melayu - Pulo Gebang via BKT,0
+2021,12,Angkutan Umum Integrasi,11D,Pulo Gebang - Pulo Gadung 2 via PIK,0
+2021,12,Angkutan Umum Integrasi,10K,Tanjung Priok - Senen via Taman  BMW,0
