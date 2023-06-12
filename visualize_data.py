@@ -1,71 +1,62 @@
+import streamlit as st
 import pandas as pd
-import dash
-import dash_core_components as dcc
-import dash_html_components as html
-from dash.dependencies import Input, Output
-from plotly.subplots import make_subplots
-import plotly.graph_objects as go
+from bokeh.plotting import figure
+from bokeh.models import HoverTool, ColumnDataSource
+from bokeh.models import CategoricalColorMapper
+from bokeh.palettes import Spectral6
 
+# Load the data
 data = pd.read_csv("https://raw.githubusercontent.com/galihatha/Visdat/main/data-penumpang-bus-transjakarta-januari-desember-2021.csv")
 data.set_index('bulan', inplace=True)
 data = data.dropna(subset=['jenis'])
 data['jenis'] = data['jenis'].astype(str)
 
-app = dash.Dash(__name__)
+# Make a color mapper
+color_mapper = CategoricalColorMapper(factors=data['jenis'].unique().tolist(), palette=Spectral6)
 
-app.layout = html.Div([
-    html.H1('Data Penumpang Bus TransJakarta'),
-    dcc.Slider(
-        id='month-slider',
-        min=1,
-        max=12,
-        step=1,
-        value=1,
-        marks={str(month): str(month) for month in range(1, 13)},
-        included=False
-    ),
-    dcc.Dropdown(
-        id='x-axis-dropdown',
-        options=[
-            {'label': 'Jenis', 'value': 'jenis'},
-            {'label': 'Kode Trayek', 'value': 'kode_trayek'},
-            {'label': 'Trayek', 'value': 'trayek'},
-            {'label': 'Jumlah Penumpang', 'value': 'jumlah_penumpang'}
-        ],
-        value='jenis',
-        clearable=False
-    ),
-    dcc.Dropdown(
-        id='y-axis-dropdown',
-        options=[
-            {'label': 'Jenis', 'value': 'jenis'},
-            {'label': 'Kode Trayek', 'value': 'kode_trayek'},
-            {'label': 'Trayek', 'value': 'trayek'},
-            {'label': 'Jumlah Penumpang', 'value': 'jumlah_penumpang'}
-        ],
-        value='kode_trayek',
-        clearable=False
-    ),
-    dcc.Graph(id='plot')
-])
+# Create the figure
+plot = figure(title='Data Penumpang Bus TransJakarta', x_axis_label='Jenis', y_axis_label='Kode Trayek',
+              plot_height=400, plot_width=700, tools=[HoverTool(tooltips='@trayek')])
 
-@app.callback(
-    Output('plot', 'figure'),
-    [Input('month-slider', 'value'),
-     Input('x-axis-dropdown', 'value'),
-     Input('y-axis-dropdown', 'value')]
-)
+# Add a circle glyph to the figure
+plot.circle(x='x', y='y', source=source, fill_alpha=0.8,
+            color=dict(field='x', transform=color_mapper), legend='jenis')
+
+# Define the update_plot function
 def update_plot(month, x, y):
-    fig = make_subplots()
+    # Filter the data based on the selected month
     filtered_data = data[data.index == month]
-    fig.add_trace(go.Scatter(x=filtered_data[x], y=filtered_data[y], mode='markers'))
-    fig.update_layout(
-        title='Data Penumpang Bus TransJakarta - Bulan {}'.format(month),
-        xaxis_title=x,
-        yaxis_title=y
-    )
-    return fig
+    
+    # Create a new data source
+    source = ColumnDataSource(data={
+        'x': filtered_data[x],
+        'y': filtered_data[y],
+        'trayek': filtered_data['trayek'],
+        'jumlah_penumpang': filtered_data['jumlah_penumpang']
+    })
+    
+    # Update the plot with the new data
+    plot.title.text = 'Data Penumpang Bus TransJakarta - Bulan %s' % month
+    plot.xaxis.axis_label = x
+    plot.yaxis.axis_label = y
+    plot.source = source
+
+# Create the Streamlit app
+def main():
+    st.title('Data Penumpang Bus TransJakarta')
+    
+    # Create the slider for selecting the month
+    month = st.slider('Bulan', 1, 12, 1)
+    
+    # Create the dropdown menus for selecting x and y axis
+    x = st.selectbox('x-axis data', ['jenis', 'kode_trayek', 'trayek', 'jumlah_penumpang'])
+    y = st.selectbox('y-axis data', ['jenis', 'kode_trayek', 'trayek', 'jumlah_penumpang'])
+    
+    # Update the plot when the inputs are changed
+    update_plot(month, x, y)
+    
+    # Render the plot
+    st.bokeh_chart(plot)
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
-
+    main()
